@@ -105,7 +105,7 @@
      transform="matrix(1,0,0,-1,0,1418)"
      id="g4" />
   <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:128;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 145.09414,1157.1593 c 0,183.5237 135.82071,354.8407 394.36123,354.8407 258.54052,0 394.36122,-171.317 394.36122,-354.8407 0,-483.679 -718.53798,-374.7606 -718.53798,-766.72842 C 215.27861,239.3407 303.37114,104 550.83158,104 c 247.46044,0 313.55297,135.3407 313.55297,292.9386 0,385.4601 -719.29041,276.5417 -719.29041,760.2207 z"
      id="path4139"
      inkscape:connector-curvature="0"
