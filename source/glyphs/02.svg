@@ -46,10 +46,10 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.081483008"
-     inkscape:cx="-3853.2019"
-     inkscape:cy="4196.3967"
-     inkscape:window-x="-7"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="714.84746"
+     inkscape:cy="766.91526"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
@@ -57,7 +57,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="17.355932,536"
+       position="0,200"
        orientation="0,1"
        id="guide4143"
        inkscape:label="Baseline"
@@ -67,21 +67,21 @@
        type="xygrid"
        id="grid4145" />
     <sodipodi:guide
-       position="13.016949,1316"
+       position="0,699.99949"
        orientation="0,1"
        id="guide4149"
        inkscape:label="Waistline"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="8.6779662,-92"
+       position="0,-202.5637"
        orientation="0,1"
        id="guide4151"
        inkscape:label="Descender Line"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="17.355932,1944"
+       position="0,1102.5632"
        orientation="0,1"
        id="guide5300"
        inkscape:label="Ascender Line"
@@ -97,7 +97,7 @@
      id="g4" />
   <path
      style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.0512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 326.01505,912.7174 c -188.93541,-14.4372 -288.2254,39.6772 -288.57689,139.0438 -0.40481,114.4399 77.12916,216.0313 208.98627,263.5199 V 412.71791"
+     d="m 411.57098,800 c -188.93541,-14.4372 -288.2254,39.6772 -288.57689,139.0438 -0.40481,114.4399 77.12916,216.0313 208.98627,263.5199 V 300.00051"
      id="path4732"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cscc" />

@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,7 +36,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1266"
+     inkscape:window-width="1718"
      inkscape:window-height="1368"
      id="namedview8"
      showgrid="false"
@@ -46,10 +45,10 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.32593203"
-     inkscape:cx="514.72023"
-     inkscape:cy="1500.8993"
-     inkscape:window-x="-7"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="818.98305"
+     inkscape:cy="858.0339"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
@@ -57,7 +56,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="17.355932,536"
+       position="0,200"
        orientation="0,1"
        id="guide4143"
        inkscape:label="Baseline"
@@ -67,21 +66,21 @@
        type="xygrid"
        id="grid4145" />
     <sodipodi:guide
-       position="13.016949,1316"
+       position="0,699.99949"
        orientation="0,1"
        id="guide4149"
        inkscape:label="Waistline"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="8.6779662,-92"
+       position="0,-202.5637"
        orientation="0,1"
        id="guide4151"
        inkscape:label="Descender Line"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="17.355932,1944"
+       position="0,1102.5632"
        orientation="0,1"
        id="guide5300"
        inkscape:label="Ascender Line"
@@ -96,8 +95,8 @@
      transform="matrix(1,0,0,-1,0,1418)"
      id="g4" />
   <path
-     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.0512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 203.90553,-215.2816 C 360.64432,-139.24917 411.02074,33.44732 420.85446,276.28679 397.29922,237.34724 369.9981,187.2821 300.08175,187.2821 c -118.95356,0 -135.26628,115.69397 -135.26628,215.91312 0,87.26258 59.61298,284.08638 241.26282,284.08638"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.0512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 163.57936,-102.5632 C 320.31815,-26.53077 370.69457,146.16572 380.52829,389.00519 356.97305,350.06564 329.67193,300.0005 259.75558,300.0005 140.80202,300.0005 124.4893,415.69447 124.4893,515.91362 124.4893,603.1762 184.10228,800 365.75212,800"
      id="path4732"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccssc" />

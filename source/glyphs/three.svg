@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,7 +36,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1266"
+     inkscape:window-width="1718"
      inkscape:window-height="1368"
      id="namedview8"
      showgrid="false"
@@ -46,10 +45,10 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.23046875"
-     inkscape:cx="-125.70975"
-     inkscape:cy="2178.1442"
-     inkscape:window-x="721"
+     inkscape:zoom="0.65186406"
+     inkscape:cx="298.37509"
+     inkscape:cy="427.23632"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
@@ -57,7 +56,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="17.355932,536"
+       position="0,200"
        orientation="0,1"
        id="guide4143"
        inkscape:label="Baseline"
@@ -67,21 +66,21 @@
        type="xygrid"
        id="grid4145" />
     <sodipodi:guide
-       position="13.016949,1316"
+       position="0,699.99949"
        orientation="0,1"
        id="guide4149"
        inkscape:label="Waistline"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="8.6779662,-92"
+       position="0,-202.5637"
        orientation="0,1"
        id="guide4151"
        inkscape:label="Descender Line"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="17.355932,1944"
+       position="0,1102.5632"
        orientation="0,1"
        id="guide5300"
        inkscape:label="Ascender Line"
@@ -95,9 +94,23 @@
   <g
      transform="matrix(1,0,0,-1,0,1418)"
      id="g4" />
+  <g
+     id="g4720-4"
+     transform="matrix(1.0663,0,0,-1.0663,136.99525,1604.1974)"
+     style="opacity:0.451" />
+  <g
+     transform="matrix(1,0,0,-1,68.659561,1522.5133)"
+     id="g4-5" />
+  <g
+     id="g4720-8"
+     transform="matrix(1.0663,0,0,-1.0663,273.67703,1612.4025)"
+     style="opacity:0.451" />
+  <g
+     transform="matrix(1,0,0,-1,205.34135,1530.7184)"
+     id="g4-4" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.0512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m -25.22607,-131.69497 c 48.61381,-58.34003 124.53669,-83.58663 200.90423,-83.58663 115.43995,0 233.33562,39.98861 233.33562,192.3075 0,152.31889 -99.99677,210.2562 -284.82622,210.2562 228.52593,0 297.64672,91.71603 297.64672,252.3018 0,160.5858 -114.77834,247.6977 -252.56637,247.6977 -124.00101,0 -178.5252,-57.5994 -207.31448,-83.5866"
+     d="m 142.58906,-18.97657 c 48.61381,-58.34003 124.53669,-83.58663 200.90423,-83.58663 115.43995,0 233.33562,39.98861 233.33562,192.3075 0,152.31889 -99.99677,210.2562 -284.82622,210.2562 228.52593,0 297.64672,91.71603 297.64672,252.3018 C 589.64941,712.8881 474.87107,800 337.08304,800 213.08203,800 158.55784,742.4006 129.76856,716.4134"
      id="path4139"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cszczsc" />

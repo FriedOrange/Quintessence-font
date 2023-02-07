@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,7 +36,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1266"
+     inkscape:window-width="1718"
      inkscape:window-height="1368"
      id="namedview8"
      showgrid="false"
@@ -46,10 +45,10 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.23046875"
-     inkscape:cx="1105.5703"
-     inkscape:cy="1333.7932"
-     inkscape:window-x="-7"
+     inkscape:zoom="0.65186406"
+     inkscape:cx="296.84103"
+     inkscape:cy="427.23631"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
@@ -57,7 +56,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="17.355932,536"
+       position="0,200"
        orientation="0,1"
        id="guide4143"
        inkscape:label="Baseline"
@@ -67,21 +66,21 @@
        type="xygrid"
        id="grid4145" />
     <sodipodi:guide
-       position="13.016949,1316"
+       position="0,699.99949"
        orientation="0,1"
        id="guide4149"
        inkscape:label="Waistline"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="8.6779662,-92"
+       position="0,-202.5637"
        orientation="0,1"
        id="guide4151"
        inkscape:label="Descender Line"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="17.355932,1944"
+       position="0,1102.5632"
        orientation="0,1"
        id="guide5300"
        inkscape:label="Ascender Line"
@@ -95,23 +94,17 @@
   <g
      transform="matrix(1,0,0,-1,0,1418)"
      id="g4" />
+  <g
+     id="g4720-4"
+     transform="matrix(1.0663,0,0,-1.0663,136.99525,1604.1974)"
+     style="opacity:0.451" />
+  <g
+     transform="matrix(1,0,0,-1,68.659561,1522.5133)"
+     id="g4-5" />
   <path
-     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.0512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 982.9803,898.0318 c -52.5468,196.1074 -131.9943,402.5637 -244.4898,402.5637 -81.16595,0 -111.3422,-82.5503 -106.43105,-174.0369 C 642.20777,937.5134 862.4627,729.7814 854.2607,566.4714 844.2274,366.69878 640.96598,396.13229 502.92808,409.83273 330.44502,426.95191 159.22994,610.3046 159.22994,932.845 c 0,182.7538 76.98984,311.5603 144.98047,379.5509 89.85431,-51.8774 141.42114,-151.7037 144.98047,-249.8041 C 453.01084,957.3078 403.63237,900.319 319.07367,883.4958 251.03833,869.96 144.65894,885.1852 66.27079,909.8322"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.0512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 668.7699,788.1996 c -52.5468,196.1074 -131.9943,402.5637 -244.4898,402.5637 -81.16595,0 -111.3422,-82.5503 -106.43105,-174.0369 C 327.99737,827.6812 548.2523,619.9492 540.0503,456.6392 530.017,256.86658 326.75558,286.30009 188.71768,300.00053 16.23461,317.11971 -154.98047,500.4724 -154.98047,823.0128 c 0,182.7538 76.98984,311.5603 144.98047,379.5509 C 79.85432,1150.6863 131.42115,1050.86 134.98048,952.7596 138.80044,847.4756 89.42197,790.4868 4.86326,773.6636 -63.17208,760.1278 -169.55146,775.353 -247.93961,800"
      id="path4732-0"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cssssscssc" />
-  <g
-     transform="matrix(1,0,0,-1,-523.74576,1809.2881)"
-     id="g4-0">
-    <path
-       style="fill:currentColor;stroke-width:0.641025"
-       inkscape:connector-curvature="0"
-       d="m 405.40135,1237.9171 c 0,38.4615 30.7692,69.2307 69.2307,69.2307 38.4615,0 69.2307,-30.7692 69.2307,-69.2307 0,-38.4615 -30.7692,-69.2307 -69.2307,-69.2307 -38.4615,0 -69.2307,30.7692 -69.2307,69.2307 z"
-       id="path6" />
-  </g>
-  <g
-     transform="matrix(1,0,0,-1,-584.43104,790.76254)"
-     id="g4-0-4"
-     style="opacity:0.178" />
 </svg>

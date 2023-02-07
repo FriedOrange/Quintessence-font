@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,8 +36,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1144"
-     inkscape:window-height="1351"
+     inkscape:window-width="1718"
+     inkscape:window-height="1368"
      id="namedview8"
      showgrid="false"
      showguides="true"
@@ -46,18 +45,18 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.32593203"
-     inkscape:cx="775.60324"
-     inkscape:cy="874.5935"
-     inkscape:window-x="1097"
-     inkscape:window-y="14"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="818.98305"
+     inkscape:cy="858.0339"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="17.355932,536"
+       position="0,200"
        orientation="0,1"
        id="guide4143"
        inkscape:label="Baseline"
@@ -67,21 +66,21 @@
        type="xygrid"
        id="grid4145" />
     <sodipodi:guide
-       position="13.016949,1316"
+       position="0,699.99949"
        orientation="0,1"
        id="guide4149"
        inkscape:label="Waistline"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="8.6779662,-92"
+       position="0,-202.5637"
        orientation="0,1"
        id="guide4151"
        inkscape:label="Descender Line"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="17.355932,1944"
+       position="0,1102.5632"
        orientation="0,1"
        id="guide5300"
        inkscape:label="Ascender Line"
@@ -96,8 +95,8 @@
      transform="matrix(1,0,0,-1,0,1418)"
      id="g4" />
   <path
-     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.0512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 155.50473,412.69789 V 1315.2611 C 174.02008,1138.0632 279.87318,977.9959 416.4345,912.6974"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 154.58596,300.00051 V 1202.5637 C 173.10131,1025.3658 278.95441,865.29852 415.51573,800.00002"
      id="path4732"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccc" />
