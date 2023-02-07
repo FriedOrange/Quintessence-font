@@ -1,0 +1,1 @@
+"process svg.bat" | inkscape --shell
