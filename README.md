@@ -2,7 +2,7 @@
 
 ## Software requirements
 
-- Ensure Python and FontForge are installed, and both are in your PATH environment variable (so they can be invoked from the command line).
+- Ensure Inkscape, Python and FontForge are installed, and all are in your PATH environment variable (so they can be invoked from the command line).
 - From the root of the repo, run the command `pip install -r requirements.txt` to install the necessary Python packages.
 
 ## Building
