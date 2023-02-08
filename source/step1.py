@@ -22,6 +22,7 @@ for source in source_files:
     name = source[:-4]
     font.createChar(qs_unicodes[name] if name in qs_unicodes else fontforge.unicodeFromName(name), name)
     font[name].importOutlines(GLYPH_FOLDER + "\\" + source, scale=False)
+    font[name].addExtrema()
     font[name].simplify()
     font[name].round()
 
