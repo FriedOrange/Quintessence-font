@@ -5,15 +5,13 @@ NAME_LIST = "quikscript.nam"
 GLYPH_FOLDER = "temp\\outlines"
 TEMP_FOLDER = "temp"
 EM_SIZE = 1000
-
+STROKE_THICKNESS = 82
 
 qs_unicodes = {}
 with open(NAME_LIST) as name_list:
     for line in name_list:
         unicode, name = line.strip().split(" ")
         qs_unicodes[name] = int(unicode, 16)
-        
-print(qs_unicodes)
 
 font = fontforge.font()
 font.encoding = "UnicodeFull"
@@ -26,5 +24,6 @@ for source in source_files:
     font[name].importOutlines(GLYPH_FOLDER + "\\" + source, scale=False)
     font[name].simplify()
     font[name].round()
+    font[name].transform((1, 0, 0, 1, 0, STROKE_THICKNESS // 2))
 
 font.save(TEMP_FOLDER + "\\step1.sfd")
