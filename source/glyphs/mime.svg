@@ -4,7 +4,7 @@
    viewBox="-10 0 1000 1000"
    id="svg2"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="22.svg"
+   sodipodi:docname="mime.svg"
    width="1000"
    height="1000"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -46,8 +46,8 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:zoom="0.65186406"
-     inkscape:cx="296.84103"
-     inkscape:cy="427.23631"
+     inkscape:cx="298.37509"
+     inkscape:cy="427.23632"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -56,7 +56,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="0,200"
+       position="0,224.99992"
        orientation="0,1"
        id="guide4143"
        inkscape:label="Baseline"
@@ -66,21 +66,21 @@
        type="xygrid"
        id="grid4145" />
     <sodipodi:guide
-       position="0,699.99949"
+       position="0,674.99951"
        orientation="0,1"
        id="guide4149"
        inkscape:label="Waistline"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,-202.5637"
+       position="0,-137.3074"
        orientation="0,1"
        id="guide4151"
        inkscape:label="Descender Line"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,1102.5632"
+       position="0,1037.3068"
        orientation="0,1"
        id="guide5300"
        inkscape:label="Ascender Line"
@@ -102,8 +102,8 @@
      transform="matrix(1,0,0,-1,68.659561,1522.5133)"
      id="g4-5" />
   <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.0512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 404.98789,300.00051 C 250.64171,355.224 151.14215,500.4724 151.14215,823.0128 c 0,182.7538 76.98983,311.5603 144.98046,379.5509 C 385.97692,1150.6863 437.54376,1050.86 441.10308,952.7595 444.92304,847.4755 395.54457,790.4868 310.98587,773.6636 242.95053,760.1278 136.57114,775.353 58.182992,800"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:73.8461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 611.90246,325.00054 C 472.9909,374.70168 383.4413,505.42524 383.4413,795.7116 c 0,164.47842 69.29085,280.4042 130.48241,341.5958 80.86888,-46.6897 127.27904,-136.5333 130.48243,-224.82377 3.43796,-94.7556 -41.00266,-146.04543 -117.10549,-161.18631 -61.23181,-12.18222 -156.97326,1.52046 -227.52259,23.70276"
      id="path4732"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cscssc" />

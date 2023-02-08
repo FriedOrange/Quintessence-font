@@ -4,7 +4,7 @@
    viewBox="-10 0 1000 1000"
    id="svg2"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="09.svg"
+   sodipodi:docname="fife.svg"
    width="1000"
    height="1000"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -45,9 +45,9 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="818.98305"
-     inkscape:cy="858.0339"
+     inkscape:zoom="0.921875"
+     inkscape:cx="442.0339"
+     inkscape:cy="481.08475"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -56,7 +56,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="0,200"
+       position="0,224.99992"
        orientation="0,1"
        id="guide4143"
        inkscape:label="Baseline"
@@ -66,21 +66,21 @@
        type="xygrid"
        id="grid4145" />
     <sodipodi:guide
-       position="0,699.99949"
+       position="0,674.99951"
        orientation="0,1"
        id="guide4149"
        inkscape:label="Waistline"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,-202.5637"
+       position="0,-137.3074"
        orientation="0,1"
        id="guide4151"
        inkscape:label="Descender Line"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,1102.5632"
+       position="0,1037.3068"
        orientation="0,1"
        id="guide5300"
        inkscape:label="Ascender Line"
@@ -95,8 +95,8 @@
      transform="matrix(1,0,0,-1,0,1418)"
      id="g4" />
   <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.0512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 172.41841,-102.5632 C 342.68955,-56.939194 398.53735,111.86989 393.95664,348.7184 389.37594,585.5669 322.88983,800 195.75607,800 117.29674,800 72.221592,709.9669 75.779022,614.6895 84.309472,386.22175 218.54437,300.0005 464.16084,300.0005"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:73.8461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 443.587,-37.30684 c 153.24402,41.061605 203.50704,192.98978 199.3844,406.15344 -4.12263,213.16365 -63.96013,406.15344 -178.38051,406.15344 -70.6134,0 -111.18103,-81.02979 -107.97934,-166.77945 7.6774,-205.62098 128.48881,-283.2201 349.54363,-283.2201"
      id="path4732"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="czssc" />

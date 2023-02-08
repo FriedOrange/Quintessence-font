@@ -46,8 +46,8 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:zoom="0.65186406"
-     inkscape:cx="298.37509"
-     inkscape:cy="427.23632"
+     inkscape:cx="299.90916"
+     inkscape:cy="428.77038"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -56,7 +56,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="0,200"
+       position="0,224.99992"
        orientation="0,1"
        id="guide4143"
        inkscape:label="Baseline"
@@ -66,21 +66,21 @@
        type="xygrid"
        id="grid4145" />
     <sodipodi:guide
-       position="0,699.99949"
+       position="0,674.99951"
        orientation="0,1"
        id="guide4149"
        inkscape:label="Waistline"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,-202.5637"
+       position="0,-137.3074"
        orientation="0,1"
        id="guide4151"
        inkscape:label="Descender Line"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,1102.5632"
+       position="0,1037.3068"
        orientation="0,1"
        id="guide5300"
        inkscape:label="Ascender Line"
@@ -109,8 +109,8 @@
      transform="matrix(1,0,0,-1,205.34135,1530.7184)"
      id="g4-4" />
   <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:82.0512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 142.58906,-18.97657 c 48.61381,-58.34003 124.53669,-83.58663 200.90423,-83.58663 115.43995,0 233.33562,39.98861 233.33562,192.3075 0,152.31889 -99.99677,210.2562 -284.82622,210.2562 228.52593,0 297.64672,91.71603 297.64672,252.3018 C 589.64941,712.8881 474.87107,800 337.08304,800 213.08203,800 158.55784,742.4006 129.76856,716.4134"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:73.8461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 273.21946,37.921167 C 316.97189,-14.58486 385.30248,-37.3068 454.03327,-37.3068 c 103.89595,0 210.00206,35.989749 210.00206,173.07675 0,137.087 -89.9971,189.23058 -256.3436,189.23058 205.67334,0 267.88205,82.54443 267.88205,227.07162 0,144.52722 -103.30051,222.92793 -227.30974,222.92793 -111.6009,0 -160.67268,-51.83946 -186.58303,-75.22794"
      id="path4139"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cszczsc" />
