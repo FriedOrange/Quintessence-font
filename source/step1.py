@@ -24,6 +24,5 @@ for source in source_files:
     font[name].importOutlines(GLYPH_FOLDER + "\\" + source, scale=False)
     font[name].simplify()
     font[name].round()
-    font[name].transform((1, 0, 0, 1, 0, STROKE_THICKNESS // 2))
 
 font.save(TEMP_FOLDER + "\\step1.sfd")
