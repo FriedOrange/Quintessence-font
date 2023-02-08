@@ -22,8 +22,9 @@ font.em = EM_SIZE
 source_files = os.listdir(GLYPH_FOLDER)
 for source in source_files:
     name = source[:-4]
-    print(name)
     font.createChar(qs_unicodes[name] if name in qs_unicodes else fontforge.unicodeFromName(name), name)
     font[name].importOutlines(GLYPH_FOLDER + "\\" + source, scale=False)
+    font[name].simplify()
+    font[name].round()
 
 font.save(TEMP_FOLDER + "\\step1.sfd")
