@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1675857821
+ModificationTime: 1675922574
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 DEI: 91125
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -43,8 +44,8 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 16 16 14
-BeginChars: 1114123 58
+WinInfo: 58944 16 14
+BeginChars: 1114123 69
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -1472,23 +1473,10 @@ EndChar
 StartChar: thoth
 Encoding: 58966 58966 45
 Width: 1000
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
-SplineSet
-381 837 m 0
- 381 858 398 874 418 874 c 0
- 421 874 424 874 427 873 c 0
- 592 829 667 637 667 431 c 0
- 667 225 591 33 427 -11 c 0
- 424 -12 421 -12 418 -12 c 0
- 398 -12 381 3 381 25 c 0
- 381 42 392 57 408 61 c 0
- 536 95 593 262 593 431 c 0
- 593 601 537 767 408 802 c 0
- 392 806 381 820 381 837 c 0
-EndSplineSet
-Validated: 1
+Refer: 42 58972 N -1 0 0 -1 1002 856 2
 EndChar
 
 StartChar: three
@@ -1875,6 +1863,105 @@ SplineSet
  372 427 370 427 367 427 c 0
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: thither
+Encoding: 58967 58967 58
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 42 58972 S 1 0 0 1 -20 -362 2
+EndChar
+
+StartChar: judge
+Encoding: 58975 58975 59
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 7 58974 N -1 0 0 -1 1011 500 2
+EndChar
+
+StartChar: llan
+Encoding: 58986 58986 60
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 27 58983 N -1 0 0 1 980 0 2
+EndChar
+
+StartChar: qsbracketright
+Encoding: 58991 58991 61
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 38 58990 N -1 0 0 -1 957 500 2
+EndChar
+
+StartChar: ash
+Encoding: 58996 58996 62
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 11 58994 S -1 0 0 1 962 0 2
+EndChar
+
+StartChar: ice
+Encoding: 58997 58997 63
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 58995 N -1 0 0 1 938 0 2
+EndChar
+
+StartChar: awl
+Encoding: 58999 58999 64
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 58998 S -1 0 0 1 934 0 2
+EndChar
+
+StartChar: on
+Encoding: 59000 59000 65
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 11 58994 N -1 0 0 -1 962 500 2
+EndChar
+
+StartChar: out
+Encoding: 59003 59003 66
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 35 59001 N -1 0 0 1 999 0 2
+EndChar
+
+StartChar: ado
+Encoding: 59002 59002 67
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 11 58994 S 1 0 0 -1 0 500 2
+EndChar
+
+StartChar: ooze
+Encoding: 59006 59006 68
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 52 59005 N -1 0 0 -1 998 500 2
 EndChar
 EndChars
 EndSplineFont
