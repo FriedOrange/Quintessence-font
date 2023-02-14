@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ice" format="2">
+  <advance width="508"/>
+  <unicode hex="E675"/>
+  <outline>
+    <component base="age" xScale="-1.0" xOffset="508.0"/>
+  </outline>
+</glyph>
