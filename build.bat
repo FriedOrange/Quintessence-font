@@ -6,6 +6,12 @@ sfd2ufo source\Quintessence-MASTER.sfd source\Quintessence-Regular.ufo
 python %USERPROFILE%\AppData\Local\Programs\Python\Python310\Scripts\gftools-builder.py config.yaml
 @cd ..
 
+@rem autohint fonts
+python %USERPROFILE%\AppData\Local\Programs\Python\Python310\Lib\site-packages\ttfautohint\__main__.py --symbol --fallback-stem-width 74 fonts\ttf\Quintessence-Regular.ttf fonts\ttf\Quintessence-Regular.ttf
+
+@rem generate compressed WOFF2
+fonttools ttLib.woff2 compress -o fonts\webfonts\Quintessence-Regular.woff2 fonts\ttf\Quintessence-Regular.ttf
+
 @rem generate proof documents
 @cd fonts\ttf
 set PYTHONUTF8=1

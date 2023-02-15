@@ -2,3 +2,5 @@ sources:
   - Quintessence-Regular.ufo
 buildOTF: false
 buildVariable: false
+buildWebfont: false
+autohintTTF: false
