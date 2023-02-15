@@ -19,11 +19,11 @@
     <key>openTypeHeadCreated</key>
     <string>2023/02/08 12:03:41</string>
     <key>openTypeHheaAscender</key>
-    <integer>950</integer>
+    <integer>1000</integer>
     <key>openTypeHheaDescender</key>
-    <integer>0</integer>
+    <integer>-500</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>450</integer>
+    <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>Brad Neil</string>
     <key>openTypeNameDesignerURL</key>
@@ -44,9 +44,9 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>950</integer>
+    <integer>1000</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-450</integer>
+    <integer>-500</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2VendorID</key>
