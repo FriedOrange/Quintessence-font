@@ -6,6 +6,7 @@ GLYPH_FOLDER = "temp\\outlines"
 TEMP_FOLDER = "temp"
 EM_SIZE = 1000
 STROKE_THICKNESS = 82
+MASTER_FONT = "Quintessence-MASTER.sfd"
 
 qs_unicodes = {}
 with open(NAME_LIST) as name_list:
@@ -17,6 +18,8 @@ font = fontforge.font()
 font.encoding = "UnicodeFull"
 font.em = EM_SIZE
 
+master = fontforge.open(MASTER_FONT)
+
 source_files = os.listdir(GLYPH_FOLDER)
 for source in source_files:
     name = source[:-4]
@@ -25,5 +28,10 @@ for source in source_files:
     font[name].addExtrema()
     font[name].simplify()
     font[name].round()
+    try:
+        font[name].left_side_bearing = int(master[name].left_side_bearing)
+        font[name].right_side_bearing = int(master[name].right_side_bearing)
+    except:
+        pass
 
 font.save(TEMP_FOLDER + "\\step1.sfd")
