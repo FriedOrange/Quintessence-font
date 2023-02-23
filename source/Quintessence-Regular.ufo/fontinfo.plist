@@ -56,9 +56,9 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>874</integer>
+    <integer>878</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>380</integer>
+    <integer>378</integer>
     <key>openTypeVheaVertTypoLineGap</key>
     <integer>90</integer>
     <key>postscriptFontName</key>
