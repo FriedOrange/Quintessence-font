@@ -47,8 +47,8 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:zoom="0.4609375"
-     inkscape:cx="719.18644"
-     inkscape:cy="769.08475"
+     inkscape:cx="582.50847"
+     inkscape:cy="898.16949"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -96,9 +96,9 @@
      transform="matrix(1,0,0,-1,0,1418)"
      id="g4" />
   <path
-     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:73.8461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 633.61663,774.99998 C 463.57476,762.0065 374.21377,810.70946 373.89743,900.1394 c -0.36433,102.996 69.41624,194.4282 188.08764,237.168 V 325.00044"
-     id="path4732"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:73.8461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 633.52065,775.00003 c -221.39086,-8.13559 -271.7192,66.88666 -271.7192,158.91469 0,92.02808 37.6139,203.39278 212.0876,203.39278 V 325.00049"
+     id="path4732-5"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cscc" />
 </svg>

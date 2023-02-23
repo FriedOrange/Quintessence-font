@@ -45,9 +45,9 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.65186406"
-     inkscape:cx="298.37509"
-     inkscape:cy="427.23632"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="493.55932"
+     inkscape:cy="963.25424"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -103,7 +103,7 @@
      id="g4-5" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:73.8461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 611.90246,325.00054 C 472.9909,374.70168 383.4413,505.42524 383.4413,795.7116 c 0,164.47842 69.29085,280.4042 130.48241,341.5958 80.86888,-46.6897 127.27904,-136.5333 130.48243,-224.82377 3.43796,-94.7556 -41.00266,-146.04543 -117.10549,-161.18631 -61.23181,-12.18222 -156.97326,1.52046 -227.52259,23.70276"
+     d="m 618.41094,325.00049 c -138.91156,49.70114 -228.46116,180.4247 -228.46116,470.71106 0,164.47842 87.29085,280.40425 148.48241,341.59585 80.86888,-46.6897 128.48243,-136.4752 128.48243,-224.82382 0,-94.84667 -77.55068,-140.17831 -154.80041,-147.48358 -42.79113,-4.04663 -108.93054,-2.87811 -183.82767,10.00003"
      id="path4732"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cscssc" />
