@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="-10 0 1000 1000"
    id="svg2"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="at.svg"
    width="1000"
    height="1000"
@@ -36,8 +36,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1718"
-     inkscape:window-height="1368"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
      id="namedview8"
      showgrid="false"
      showguides="true"
@@ -45,12 +45,12 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.65186406"
-     inkscape:cx="298.37509"
-     inkscape:cy="427.23632"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="105.22034"
+     inkscape:cy="675.79661"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -64,7 +64,13 @@
        inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
-       id="grid4145" />
+       id="grid4145"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
     <sodipodi:guide
        position="0,674.99951"
        orientation="0,1"
@@ -101,4 +107,9 @@
   <g
      transform="matrix(1,0,0,-1,68.659561,1522.5133)"
      id="g4-5" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round"
+     d="m 677.13466,401.5488 c -69.46426,-64.63294 -129.9783,-76.54831 -174.9188,-76.54831 -132.20141,0 -192.665,128.97484 -192.665,231.86409 0,109.38862 50.00458,218.1355 169.14762,218.1355 107.34365,0 191.40085,-47.87677 201.16356,-449.99959 -0.28467,393.90831 53.91124,449.99959 131.59965,449.99959 71.18283,0 118.56688,-64.15612 118.56688,-258.7091 0,-268.15517 -179.36865,-421.56601 -404.49957,-421.56601 -225.13092,0 -438.41715,160.97898 -438.41715,455.56601 0,294.58703 207.66587,440.16819 409.73918,440.16819 160.65362,0 219.62044,-22.84278 252.15807,-33.37714"
+     id="path1"
+     sodipodi:nodetypes="cssscsszzsc" />
 </svg>
