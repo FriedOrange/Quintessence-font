@@ -3,7 +3,8 @@ sfd2ufo source\Quintessence-MASTER.sfd source\Quintessence-Regular.ufo
 
 @rem build OpenType fonts
 @cd source
-python %USERPROFILE%\AppData\Local\Programs\Python\Python310\Scripts\gftools-builder.py config.yaml
+@REM python %USERPROFILE%\AppData\Local\Programs\Python\Python310\Scripts\gftools-builder.py config.yaml
+gftools builder config.yaml
 @cd ..
 
 @rem autohint fonts
