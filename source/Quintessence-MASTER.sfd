@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1699323948
+ModificationTime: 1699325040
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ FitToEm: 1
 WinInfo: 0 16 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114123 73
+BeginChars: 1114123 74
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -1944,8 +1944,7 @@ EndChar
 StartChar: numbersign
 Encoding: 35 35 70
 Width: 640
-Flags: W
-HStem: -12 21G<119 138 374 393> 252 74<33.336 126 212 381 467 573.664> 543 74<66.336 171 257 426 512 606.664>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2003,7 +2002,7 @@ EndChar
 StartChar: ampersand
 Encoding: 38 38 71
 Width: 633
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2051,7 +2050,7 @@ EndChar
 StartChar: asciicircum
 Encoding: 94 94 72
 Width: 640
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2068,6 +2067,28 @@ SplineSet
  319.5 760 l 1
  124.5 403 l 0
  118.5 392 105.5 384 91.5 384 c 0
+EndSplineSet
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 73
+Width: 640
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+225 508 m 0
+ 317 508 352 434 416 434 c 0
+ 483 434 516 466 540 497 c 0
+ 546 505 556 511 569 511 c 0
+ 589 511 606 495 606 474 c 0
+ 606 466 604 458 599 452 c 0
+ 568 411 509 360 416 360 c 0
+ 324 360 289 434 225 434 c 0
+ 107 434 117 357 71 357 c 0
+ 51 357 34 373 34 394 c 0
+ 34 402 37 410 41 416 c 0
+ 75 462 134 508 225 508 c 0
 EndSplineSet
 EndChar
 EndChars
