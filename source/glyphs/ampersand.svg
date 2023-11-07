@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="-10 0 1000 1000"
    id="svg2"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="ampersand.svg"
    width="1000"
    height="1000"
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1718"
-     inkscape:window-height="1368"
+     inkscape:window-height="1033"
      id="namedview8"
      showgrid="false"
      showguides="true"
@@ -45,9 +45,9 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.65186406"
-     inkscape:cx="298.37509"
-     inkscape:cy="427.23632"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="267.9322"
+     inkscape:cy="534.77966"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -64,7 +64,13 @@
        inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
-       id="grid4145" />
+       id="grid4145"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
     <sodipodi:guide
        position="0,674.99951"
        orientation="0,1"
@@ -101,4 +107,14 @@
   <g
      transform="matrix(1,0,0,-1,68.659561,1522.5133)"
      id="g4-5" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-opacity:1"
+     d="M 416.68459,-37.3068 V 775.00008"
+     id="path1"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 592.69299,80.624052 C 551.87301,64.925545 501.34136,53.80656 448.68459,53.80656 c -137.69823,0 -240.79057,40.76678 -240.79057,145.07653 0,137.84506 114.76707,158.56201 320.79897,158.4962 -197.41277,6.11601 -340.79897,23.51549 -340.79897,172.00841 0,133.83509 113.8688,160.8259 260.79057,160.8259 74.82449,0 130.39528,-18.51319 158.0084,-30.21531"
+     id="path2"
+     sodipodi:nodetypes="csscssc" />
 </svg>
