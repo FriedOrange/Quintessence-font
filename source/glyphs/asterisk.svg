@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="-10 0 1000 1000"
    id="svg2"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="asterisk.svg"
    width="1000"
    height="1000"
@@ -36,8 +36,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
      id="namedview8"
      showgrid="false"
      showguides="true"
@@ -45,11 +45,11 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="1.3037281"
-     inkscape:cx="348.99915"
-     inkscape:cy="139.21614"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="0.65186405"
+     inkscape:cx="134.23044"
+     inkscape:cy="589.84692"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:showpageshadow="2"
@@ -114,12 +114,12 @@
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round"
-     d="M 341.24573,204.19177 595.85352,23.321322"
+     d="M 341.24573,196.19177 595.85352,31.321322"
      id="path2"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round"
-     d="M 341.24573,23.321322 595.85352,204.19177"
+     d="M 341.24573,31.321322 595.85352,196.19177"
      id="path3"
      sodipodi:nodetypes="cc" />
 </svg>
