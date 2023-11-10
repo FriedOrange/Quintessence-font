@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1699616311
+ModificationTime: 1699617194
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -54,10 +54,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 13
+WinInfo: 8176 16 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114123 98
+BeginChars: 1114123 100
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2597,6 +2597,70 @@ SplineSet
  37 -148 l 2
  17 -148 0 -131 0 -111 c 0
  0 -91 17 -74 37 -74 c 2
+EndSplineSet
+EndChar
+
+StartChar: dagger
+Encoding: 8224 8224 98
+Width: 500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+250 874 m 0
+ 270 874 286 857 286 837 c 2
+ 286 624 l 1
+ 433 624 l 2
+ 453 624 470 607 470 587 c 0
+ 470 567 453 550 433 550 c 2
+ 286 550 l 1
+ 286 25 l 2
+ 286 5 270 -12 250 -12 c 0
+ 230 -12 213 5 213 25 c 2
+ 213 550 l 1
+ 67 550 l 2
+ 47 550 30 567 30 587 c 0
+ 30 607 47 624 67 624 c 2
+ 213 624 l 1
+ 213 837 l 2
+ 213 857 230 874 250 874 c 0
+EndSplineSet
+EndChar
+
+StartChar: daggerdbl
+Encoding: 8225 8225 99
+Width: 500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+250 874 m 0
+ 270 874 286 857 286 837 c 2
+ 286 624 l 1
+ 433 624 l 2
+ 453 624 470 607 470 587 c 0
+ 470 567 453 550 433 550 c 2
+ 286 550 l 1
+ 286 326 l 1
+ 433 326 l 2
+ 453 326 470 309 470 289 c 0
+ 470 269 453 252 433 252 c 2
+ 286 252 l 1
+ 286 25 l 2
+ 286 5 270 -12 250 -12 c 0
+ 230 -12 213 5 213 25 c 2
+ 213 252 l 1
+ 67 252 l 2
+ 47 252 30 269 30 289 c 0
+ 30 309 47 326 67 326 c 2
+ 213 326 l 1
+ 213 550 l 1
+ 67 550 l 2
+ 47 550 30 567 30 587 c 0
+ 30 607 47 624 67 624 c 2
+ 213 624 l 1
+ 213 837 l 2
+ 213 857 230 874 250 874 c 0
 EndSplineSet
 EndChar
 EndChars
