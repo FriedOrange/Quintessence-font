@@ -1,4 +1,4 @@
-@GDEF_base = [ado age age_roar ah ah_roar ash awl axe bob church deed deed_ado_roar eat ed ed_roar eight emdash exam fife five four gig haha ice if if_ado if_ado_roar inkling judge kick llan loch loll mime mime_roar mime_zoos nine nun nun_nun_nun oak oil on one ooze out pipe qsbracketleft qsbracketright question roar seven shush sis six space thither thoth three tut two valve whitewheat winwin wool yoyo yoyo_ooze zero zhivago zoos];
+@GDEF_base = [Euro ado age age_roar ah ah_roar ampersand asciicircum asciitilde ash asterisk at awl axe bob braceleft braceright bracketleft bracketright church deed deed_ado_roar degree dollar eat ed ed_roar eight emdash exam fife figuredash five four gig grave haha ice if if_ado if_ado_roar inkling judge kick llan loch logicalnot loll mime mime_roar mime_zoos minus nine numbersign nun nun_nun_nun oak oil on one ooze out parenleft parenright pipe plus qsbracketleft qsbracketright question roar seven shush sis six space thither thoth three tut two valve whitewheat winwin wool yoyo yoyo_ooze zero zhivago zoos];
 @GDEF_mark = [];
 @GDEF_ligature = [];
 @GDEF_component = [];

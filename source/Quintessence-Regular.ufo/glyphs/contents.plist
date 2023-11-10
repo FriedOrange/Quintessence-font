@@ -4,6 +4,8 @@
   <dict>
     <key>.notdef</key>
     <string>_notdef.glif</string>
+    <key>Euro</key>
+    <string>E_uro.glif</string>
     <key>ado</key>
     <string>ado.glif</string>
     <key>age</key>
@@ -14,20 +16,42 @@
     <string>ah.glif</string>
     <key>ah_roar</key>
     <string>ah_roar.glif</string>
+    <key>ampersand</key>
+    <string>ampersand.glif</string>
+    <key>asciicircum</key>
+    <string>asciicircum.glif</string>
+    <key>asciitilde</key>
+    <string>asciitilde.glif</string>
     <key>ash</key>
     <string>ash.glif</string>
+    <key>asterisk</key>
+    <string>asterisk.glif</string>
+    <key>at</key>
+    <string>at.glif</string>
     <key>awl</key>
     <string>awl.glif</string>
     <key>axe</key>
     <string>axe.glif</string>
     <key>bob</key>
     <string>bob.glif</string>
+    <key>braceleft</key>
+    <string>braceleft.glif</string>
+    <key>braceright</key>
+    <string>braceright.glif</string>
+    <key>bracketleft</key>
+    <string>bracketleft.glif</string>
+    <key>bracketright</key>
+    <string>bracketright.glif</string>
     <key>church</key>
     <string>church.glif</string>
     <key>deed</key>
     <string>deed.glif</string>
     <key>deed_ado_roar</key>
     <string>deed_ado_roar.glif</string>
+    <key>degree</key>
+    <string>degree.glif</string>
+    <key>dollar</key>
+    <string>dollar.glif</string>
     <key>eat</key>
     <string>eat.glif</string>
     <key>ed</key>
@@ -42,12 +66,16 @@
     <string>exam.glif</string>
     <key>fife</key>
     <string>fife.glif</string>
+    <key>figuredash</key>
+    <string>figuredash.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>gig</key>
     <string>gig.glif</string>
+    <key>grave</key>
+    <string>grave.glif</string>
     <key>haha</key>
     <string>haha.glif</string>
     <key>ice</key>
@@ -68,6 +96,8 @@
     <string>llan.glif</string>
     <key>loch</key>
     <string>loch.glif</string>
+    <key>logicalnot</key>
+    <string>logicalnot.glif</string>
     <key>loll</key>
     <string>loll.glif</string>
     <key>mime</key>
@@ -76,8 +106,12 @@
     <string>mime_roar.glif</string>
     <key>mime_zoos</key>
     <string>mime_zoos.glif</string>
+    <key>minus</key>
+    <string>minus.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
+    <key>numbersign</key>
+    <string>numbersign.glif</string>
     <key>nun</key>
     <string>nun.glif</string>
     <key>nun_nun_nun</key>
@@ -94,8 +128,14 @@
     <string>ooze.glif</string>
     <key>out</key>
     <string>out.glif</string>
+    <key>parenleft</key>
+    <string>parenleft.glif</string>
+    <key>parenright</key>
+    <string>parenright.glif</string>
     <key>pipe</key>
     <string>pipe.glif</string>
+    <key>plus</key>
+    <string>plus.glif</string>
     <key>qsbracketleft</key>
     <string>qsbracketleft.glif</string>
     <key>qsbracketright</key>
