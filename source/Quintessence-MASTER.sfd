@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1699614404
+ModificationTime: 1699615159
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ FitToEm: 1
 WinInfo: 0 16 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114123 90
+BeginChars: 1114123 92
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2433,7 +2433,7 @@ EndChar
 StartChar: figuredash
 Encoding: 8210 8210 87
 Width: 640
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 86 8722 N 1 0 0 1 0 0 3
@@ -2442,8 +2442,7 @@ EndChar
 StartChar: parenleft
 Encoding: 40 40 88
 Width: 353
-Flags: W
-VStem: 100 74<15.3931 484.607>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2468,11 +2467,42 @@ EndChar
 StartChar: parenright
 Encoding: 41 41 89
 Width: 353
-Flags: W
-VStem: 161 74<15.3931 484.607>
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 88 40 N -1 0 0 -1 335 500 3
+EndChar
+
+StartChar: less
+Encoding: 60 60 90
+Width: 640
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+497 207 m 0
+ 497 186 480 170 460 170 c 0
+ 452 170 445 172 439 176 c 2
+ 119 403 l 2
+ 110 410 103 421 103 433 c 0
+ 103 445 110 456 119 463 c 2
+ 439 690 l 2
+ 445 694 451 697 460 697 c 0
+ 481 697 497 681 497 660 c 0
+ 497 648 490 636 481 629 c 2
+ 204 433 l 1
+ 481 237 l 2
+ 490 230 497 219 497 207 c 0
+EndSplineSet
+EndChar
+
+StartChar: greater
+Encoding: 62 62 91
+Width: 640
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 90 60 N -1 0 0 -1 640 867 3
 EndChar
 EndChars
 EndSplineFont

@@ -45,10 +45,10 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.65186406"
-     inkscape:cx="298.37509"
-     inkscape:cy="427.23632"
-     inkscape:window-x="0"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="195.25424"
+     inkscape:cy="512"
+     inkscape:window-x="459"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
@@ -101,4 +101,9 @@
   <g
      transform="matrix(1,0,0,-1,68.659561,1522.5133)"
      id="g4-5" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     d="M 676.06894,593.37424 356.36836,366.91336 676.06894,140.45248"
+     id="path3337"
+     sodipodi:nodetypes="ccc" />
 </svg>
