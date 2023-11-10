@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1699615159
+ModificationTime: 1699616311
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ FitToEm: 1
 WinInfo: 0 16 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114123 92
+BeginChars: 1114123 98
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2503,6 +2503,101 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 90 60 N -1 0 0 -1 640 867 3
+EndChar
+
+StartChar: equal
+Encoding: 61 61 92
+Width: 640
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 86 8722 N 1 0 0 1 0 116 2
+Refer: 86 8722 N 1 0 0 1 0 -114 2
+EndChar
+
+StartChar: plusminus
+Encoding: 177 177 93
+Width: 640
+Flags: MW
+LayerCount: 2
+Fore
+Refer: 86 8722 S 1 0 0 1 0 -370 2
+Refer: 84 43 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: endash
+Encoding: 8211 8211 94
+Width: 500
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+57 306 m 2
+ 443 306 l 2
+ 463 306 480 289 480 269 c 0
+ 480 249 463 232 443 232 c 2
+ 57 232 l 2
+ 37 232 20 249 20 269 c 0
+ 20 289 37 306 57 306 c 2
+EndSplineSet
+EndChar
+
+StartChar: bar
+Encoding: 124 124 95
+Width: 313
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+157 874 m 0
+ 177 874 193 857 193 837 c 2
+ 193 -337 l 2
+ 193 -357 177 -374 157 -374 c 0
+ 137 -374 120 -357 120 -337 c 2
+ 120 837 l 2
+ 120 857 137 874 157 874 c 0
+EndSplineSet
+EndChar
+
+StartChar: brokenbar
+Encoding: 166 166 96
+Width: 313
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+157 874 m 0
+ 177 874 193 857 193 837 c 2
+ 193 380 l 2
+ 193 360 177 343 157 343 c 0
+ 137 343 120 360 120 380 c 2
+ 120 837 l 2
+ 120 857 137 874 157 874 c 0
+157 161 m 0
+ 177 161 193 144 193 124 c 2
+ 193 -337 l 2
+ 193 -357 177 -374 157 -374 c 0
+ 137 -374 120 -357 120 -337 c 2
+ 120 124 l 2
+ 120 144 137 161 157 161 c 0
+EndSplineSet
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 97
+Width: 500
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+37 -74 m 2
+ 463 -74 l 2
+ 483 -74 500 -91 500 -111 c 0
+ 500 -131 483 -148 463 -148 c 2
+ 37 -148 l 2
+ 17 -148 0 -131 0 -111 c 0
+ 0 -91 17 -74 37 -74 c 2
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
