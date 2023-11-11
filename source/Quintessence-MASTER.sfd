@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1699702165
+ModificationTime: 1699703663
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -54,10 +54,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 16 13
+WinInfo: 8176 16 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114123 102
+BeginChars: 1114123 104
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2743,6 +2743,35 @@ SplineSet
  100 602 l 2
  93 609 90 618 90 628 c 0
 EndSplineSet
+EndChar
+
+StartChar: minute
+Encoding: 8242 8242 102
+Width: 640
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+335 874 m 4
+ 357 874 372 856 372 837 c 4
+ 372 832 371 827 369 823 c 6
+ 259 563 l 6
+ 253 550 240 540 225 540 c 4
+ 203 540 188 558 188 577 c 4
+ 188 582 189 588 191 592 c 6
+ 301 852 l 6
+ 307 865 320 874 335 874 c 4
+EndSplineSet
+EndChar
+
+StartChar: second
+Encoding: 8243 8243 103
+Width: 640
+Flags: MWO
+LayerCount: 2
+Fore
+Refer: 102 8242 N 1 0 0 1 100 0 2
+Refer: 102 8242 N 1 0 0 1 -90 0 2
 EndChar
 EndChars
 EndSplineFont
