@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1699701472
+ModificationTime: 1699702165
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -54,10 +54,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 13
+WinInfo: 32 16 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114123 101
+BeginChars: 1114123 102
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2369,27 +2369,27 @@ EndChar
 StartChar: plus
 Encoding: 43 43 84
 Width: 640
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-322 699 m 0
- 342 699 359 682 359 662 c 2
- 359 469 l 1
+320 699 m 0
+ 340 699 357 682 357 662 c 2
+ 357 469 l 1
  539 469 l 2
  559 469 576 452 576 432 c 0
  576 412 559 395 539 395 c 2
- 359 395 l 1
- 359 205 l 2
- 359 185 342 168 322 168 c 0
- 302 168 285 185 285 205 c 2
- 285 395 l 1
+ 357 395 l 1
+ 357 205 l 2
+ 357 185 340 168 320 168 c 0
+ 300 168 283 185 283 205 c 2
+ 283 395 l 1
  101 395 l 2
  81 395 64 412 64 432 c 0
  64 452 81 469 101 469 c 2
- 285 469 l 1
- 285 662 l 2
- 285 682 302 699 322 699 c 0
+ 283 469 l 1
+ 283 662 l 2
+ 283 682 300 699 320 699 c 0
 EndSplineSet
 EndChar
 
@@ -2518,7 +2518,7 @@ EndChar
 StartChar: plusminus
 Encoding: 177 177 93
 Width: 640
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 86 8722 S 1 0 0 1 0 -370 2
@@ -2711,6 +2711,37 @@ SplineSet
  219 136 202 148 185 148 c 0
  164 148 146 127 146 107 c 0
  146 82 158 62 180 62 c 0
+EndSplineSet
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 101
+Width: 640
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+90 628 m 0
+ 90 648 106 664 126 664 c 0
+ 136 664 145 661 152 654 c 2
+ 322 484 l 1
+ 492 654 l 2
+ 499 661 508 664 518 664 c 0
+ 538 664 554 648 554 628 c 0
+ 554 618 551 609 544 602 c 2
+ 374 432 l 1
+ 544 262 l 2
+ 551 255 554 246 554 236 c 0
+ 554 216 538 200 518 200 c 0
+ 508 200 499 203 492 210 c 2
+ 322 380 l 1
+ 152 210 l 2
+ 145 203 136 200 126 200 c 0
+ 106 200 90 216 90 236 c 0
+ 90 246 93 255 100 262 c 2
+ 270 432 l 1
+ 100 602 l 2
+ 93 609 90 618 90 628 c 0
 EndSplineSet
 EndChar
 EndChars
