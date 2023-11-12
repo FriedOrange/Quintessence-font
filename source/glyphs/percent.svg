@@ -46,8 +46,8 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:zoom="0.65186406"
-     inkscape:cx="298.37509"
-     inkscape:cy="427.23632"
+     inkscape:cx="297.60806"
+     inkscape:cy="546.12614"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -108,4 +108,14 @@
   <g
      transform="matrix(1,0,0,-1,205.34135,1530.7184)"
      id="g4-4" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     d="M 347.66525,814.7014 655.19426,-66.021865 C 602.85298,-1.6743271 569.46544,24.40678 481.31143,24.40678 c -55.61689,0 -91.71045,-27.1450256 -143.09261,-61.71358 13.88302,17.104158 55.9779,57.55104 55.9779,177.12699 0,119.57595 -71.38762,177.12696 -141.65008,177.12698 -70.26246,2e-5 -141.65011,-50.51613 -141.65011,-177.12698 0,-126.610848 67.83187,-160.31343 101.65011,-177.12699"
+     id="path20381"
+     sodipodi:nodetypes="ccsczzsc" />
+  <path
+     id="path20554"
+     style="opacity:1;fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6"
+     d="m 894.16473,597.8731 c 0,118.04188 -64.584,177.12696 -141.65007,177.12698 -77.06607,2e-5 -141.65012,-57.551 -141.65012,-177.12698 0,-119.57598 70.36402,-177.12702 141.6501,-177.12699 71.28608,3e-5 141.65009,59.08511 141.65009,177.12699 z"
+     sodipodi:nodetypes="zzzzz" />
 </svg>

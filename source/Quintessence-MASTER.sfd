@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1699777412
+ModificationTime: 1699783892
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -54,10 +54,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8208 16 13
+WinInfo: 0 16 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114123 106
+BeginChars: 1114123 109
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2835,6 +2835,97 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 69 32 S 1 0 0 1 0 0 3
+EndChar
+
+StartChar: slash
+Encoding: 47 47 106
+Width: 381
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+37 -52 m 0
+ 15 -52 0 -34 0 -15 c 0
+ 0 -11 1 -7 2 -3 c 2
+ 309 878 l 2
+ 314 892 327 903 344 903 c 0
+ 366 903 381 885 381 866 c 0
+ 381 862 380 858 379 854 c 2
+ 72 -27 l 2
+ 67 -41 53 -52 37 -52 c 0
+EndSplineSet
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 107
+Width: 381
+Flags: W
+VStem: 0 72<878 899.73> 309 72<-48.7296 -27>
+LayerCount: 2
+Fore
+SplineSet
+344 -52 m 0
+ 328 -52 314 -41 309 -27 c 2
+ 2 854 l 2
+ 1 858 0 862 0 866 c 0
+ 0 885 15 903 37 903 c 0
+ 54 903 67 892 72 878 c 2
+ 379 -3 l 2
+ 380 -7 381 -11 381 -15 c 0
+ 381 -34 366 -52 344 -52 c 0
+EndSplineSet
+EndChar
+
+StartChar: percent
+Encoding: 37 37 108
+Width: 997
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+651 903 m 0
+ 673 903 688 886 688 866 c 0
+ 688 862 687 858 686 854 c 2
+ 379 -27 l 2
+ 374 -41 360 -52 344 -52 c 0
+ 322 -52 307 -34 307 -15 c 0
+ 307 -11 308 -7 309 -3 c 2
+ 573 754 l 1
+ 546 743 514 739 477 739 c 0
+ 455 739 437 742 419 748 c 1
+ 424 723 427 694 427 660 c 0
+ 427 526 339 446 249 446 c 0
+ 138 446 70 538 70 660 c 0
+ 70 730 89 780 116 813 c 0
+ 143 846 175 862 192 870 c 0
+ 197 872 203 874 209 874 c 0
+ 228 874 246 859 246 837 c 0
+ 246 822 237 810 225 804 c 0
+ 175 779 144 749 144 660 c 0
+ 144 604 159 569 178 549 c 0
+ 197 529 223 520 249 520 c 0
+ 299 520 353 555 353 660 c 0
+ 353 744 335 777 305 814 c 0
+ 300 820 297 828 297 837 c 0
+ 297 857 314 874 334 874 c 0
+ 342 874 349 872 355 868 c 0
+ 407 833 433 813 477 813 c 0
+ 517 813 541 818 560 829 c 0
+ 579 840 597 858 622 889 c 0
+ 629 897 639 903 651 903 c 0
+749 -12 m 0
+ 637 -12 570 82 570 202 c 0
+ 570 336 658 416 749 416 c 0
+ 841 416 927 335 927 202 c 0
+ 927 82 861 -12 749 -12 c 0
+749 342 m 0
+ 698 342 644 307 644 202 c 0
+ 644 149 658 114 677 93 c 0
+ 696 72 720 62 749 62 c 0
+ 778 62 801 73 820 94 c 0
+ 839 115 853 150 853 202 c 0
+ 853 305 800 342 749 342 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
