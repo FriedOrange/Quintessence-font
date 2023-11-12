@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="-10 0 1000 1000"
    id="svg2"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="euro.svg"
    width="1000"
    height="1000"
@@ -36,8 +36,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
      id="namedview8"
      showgrid="false"
      showguides="true"
@@ -45,11 +45,11 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="0.65186406"
-     inkscape:cx="479.39443"
-     inkscape:cy="441.04288"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="814.64407"
+     inkscape:cy="641.08475"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:showpageshadow="2"
@@ -109,17 +109,17 @@
      id="g4-5" />
   <path
      style="fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round"
-     d="m 686.48937,-3.52215 c -67.9826,-29.108638 -82.06462,-33.78465 -139.76105,-33.78465 -142.30471,0 -221.44994,178.99165 -221.44994,394.15344 0,215.16179 39.43345,418.15344 219.44994,418.15344 63.9612,0 98.34995,-10.8126 161.21398,-38.33115"
+     d="M 686.48937,-9.52215 C 626.23159,-33.486228 604.42475,-37.3068 546.72832,-37.3068 c -149.97502,0 -221.44994,180.99165 -221.44994,396.15344 0,215.16179 60.63782,416.15344 231.44994,416.15344 63.62752,0 93.86974,-3.89529 149.21398,-30.33115"
      id="path2"
      sodipodi:nodetypes="cszsc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round"
-     d="M 266.05214,273.85869 H 568.94363"
+     d="M 274.05214,273.85869 H 608.94363"
      id="path3"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round"
-     d="M 266.05214,428.49788 H 508.2725"
+     d="M 274.05214,428.49788 H 568.2725"
      id="path4"
      sodipodi:nodetypes="cc" />
 </svg>
