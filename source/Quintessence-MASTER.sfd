@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1699784351
+ModificationTime: 1699786354
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -54,10 +54,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 13
+WinInfo: 16 16 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114123 109
+BeginChars: 1114123 113
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2266,7 +2266,7 @@ EndChar
 StartChar: dollar
 Encoding: 36 36 81
 Width: 640
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -2833,7 +2833,7 @@ EndChar
 StartChar: uni00A0
 Encoding: 160 160 105
 Width: 330
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 69 32 S 1 0 0 1 0 0 3
@@ -2861,21 +2861,10 @@ EndChar
 StartChar: backslash
 Encoding: 92 92 107
 Width: 381
-Flags: W
-VStem: 0 72<878 899.73> 309 72<-48.7296 -27>
+Flags: HMW
 LayerCount: 2
 Fore
-SplineSet
-344 -52 m 0
- 328 -52 314 -41 309 -27 c 2
- 2 854 l 2
- 1 858 0 862 0 866 c 0
- 0 885 15 903 37 903 c 0
- 54 903 67 892 72 878 c 2
- 379 -3 l 2
- 380 -7 381 -11 381 -15 c 0
- 381 -34 366 -52 344 -52 c 0
-EndSplineSet
+Refer: 106 47 N -1 0 0 1 381 0 2
 EndChar
 
 StartChar: percent
@@ -2928,6 +2917,50 @@ SplineSet
  839 115 853 150 853 202 c 0
  853 305 800 342 749 342 c 0
 EndSplineSet
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 109
+Width: 410
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+67 306 m 2
+ 343 306 l 2
+ 363 306 380 289 380 269 c 0
+ 380 249 363 232 343 232 c 2
+ 67 232 l 2
+ 47 232 30 249 30 269 c 0
+ 30 289 47 306 67 306 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 110
+Width: 410
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 109 45 S 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni2011
+Encoding: 8209 8209 111
+Width: 410
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 109 45 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 112
+Width: 410
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 109 45 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
