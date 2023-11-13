@@ -6,13 +6,18 @@
     <array>
       <string>.notdef</string>
       <string>space</string>
+      <string>exclam</string>
       <string>numbersign</string>
       <string>dollar</string>
+      <string>percent</string>
       <string>ampersand</string>
       <string>parenleft</string>
       <string>parenright</string>
       <string>asterisk</string>
       <string>plus</string>
+      <string>hyphen</string>
+      <string>period</string>
+      <string>slash</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -23,19 +28,40 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
+      <string>colon</string>
+      <string>less</string>
+      <string>equal</string>
+      <string>greater</string>
       <string>question</string>
       <string>at</string>
       <string>bracketleft</string>
+      <string>backslash</string>
       <string>bracketright</string>
       <string>asciicircum</string>
+      <string>underscore</string>
       <string>grave</string>
       <string>braceleft</string>
+      <string>bar</string>
       <string>braceright</string>
       <string>asciitilde</string>
+      <string>uni00A0</string>
+      <string>sterling</string>
+      <string>brokenbar</string>
+      <string>section</string>
       <string>logicalnot</string>
+      <string>uni00AD</string>
       <string>degree</string>
+      <string>plusminus</string>
+      <string>multiply</string>
+      <string>uni2010</string>
+      <string>uni2011</string>
       <string>figuredash</string>
+      <string>endash</string>
       <string>emdash</string>
+      <string>dagger</string>
+      <string>daggerdbl</string>
+      <string>minute</string>
+      <string>second</string>
       <string>Euro</string>
       <string>minus</string>
       <string>pipe</string>
@@ -125,6 +151,10 @@
       <string>base</string>
       <key>axe</key>
       <string>base</string>
+      <key>backslash</key>
+      <string>base</string>
+      <key>bar</key>
+      <string>base</string>
       <key>bob</key>
       <string>base</string>
       <key>braceleft</key>
@@ -135,7 +165,15 @@
       <string>base</string>
       <key>bracketright</key>
       <string>base</string>
+      <key>brokenbar</key>
+      <string>base</string>
       <key>church</key>
+      <string>base</string>
+      <key>colon</key>
+      <string>base</string>
+      <key>dagger</key>
+      <string>base</string>
+      <key>daggerdbl</key>
       <string>base</string>
       <key>deed</key>
       <string>base</string>
@@ -155,7 +193,13 @@
       <string>base</string>
       <key>emdash</key>
       <string>base</string>
+      <key>endash</key>
+      <string>base</string>
+      <key>equal</key>
+      <string>base</string>
       <key>exam</key>
+      <string>base</string>
+      <key>exclam</key>
       <string>base</string>
       <key>fife</key>
       <string>base</string>
@@ -169,7 +213,11 @@
       <string>base</string>
       <key>grave</key>
       <string>base</string>
+      <key>greater</key>
+      <string>base</string>
       <key>haha</key>
+      <string>base</string>
+      <key>hyphen</key>
       <string>base</string>
       <key>ice</key>
       <string>base</string>
@@ -184,6 +232,8 @@
       <key>judge</key>
       <string>base</string>
       <key>kick</key>
+      <string>base</string>
+      <key>less</key>
       <string>base</string>
       <key>llan</key>
       <string>base</string>
@@ -200,6 +250,10 @@
       <key>mime_zoos</key>
       <string>base</string>
       <key>minus</key>
+      <string>base</string>
+      <key>minute</key>
+      <string>base</string>
+      <key>multiply</key>
       <string>base</string>
       <key>nine</key>
       <string>base</string>
@@ -225,9 +279,15 @@
       <string>base</string>
       <key>parenright</key>
       <string>base</string>
+      <key>percent</key>
+      <string>base</string>
+      <key>period</key>
+      <string>base</string>
       <key>pipe</key>
       <string>base</string>
       <key>plus</key>
+      <string>base</string>
+      <key>plusminus</key>
       <string>base</string>
       <key>qsbracketleft</key>
       <string>base</string>
@@ -237,6 +297,10 @@
       <string>base</string>
       <key>roar</key>
       <string>base</string>
+      <key>second</key>
+      <string>base</string>
+      <key>section</key>
+      <string>base</string>
       <key>seven</key>
       <string>base</string>
       <key>shush</key>
@@ -245,7 +309,11 @@
       <string>base</string>
       <key>six</key>
       <string>base</string>
+      <key>slash</key>
+      <string>base</string>
       <key>space</key>
+      <string>base</string>
+      <key>sterling</key>
       <string>base</string>
       <key>thither</key>
       <string>base</string>
@@ -256,6 +324,16 @@
       <key>tut</key>
       <string>base</string>
       <key>two</key>
+      <string>base</string>
+      <key>underscore</key>
+      <string>base</string>
+      <key>uni00A0</key>
+      <string>base</string>
+      <key>uni00AD</key>
+      <string>base</string>
+      <key>uni2010</key>
+      <string>base</string>
+      <key>uni2011</key>
       <string>base</string>
       <key>valve</key>
       <string>base</string>
