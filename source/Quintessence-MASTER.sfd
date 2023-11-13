@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1699875797
+ModificationTime: 1699875989
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -3126,7 +3126,7 @@ EndChar
 StartChar: semicolon
 Encoding: 59 59 123
 Width: 240
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 113 46 N 1 0 0 1 0 404 2
@@ -3136,7 +3136,7 @@ EndChar
 StartChar: quoteright
 Encoding: 8217 8217 124
 Width: 240
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 122 44 N 1 0 0 1 0 766 3
@@ -3145,7 +3145,7 @@ EndChar
 StartChar: quoteleft
 Encoding: 8216 8216 125
 Width: 240
-Flags: HW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 122 44 N -1 0 0 -1 242 719 3
@@ -3153,22 +3153,22 @@ EndChar
 
 StartChar: quotedblleft
 Encoding: 8220 8220 126
-Width: 408
-Flags: HWO
+Width: 418
+Flags: MWO
 LayerCount: 2
 Fore
 Refer: 122 44 N -1 0 0 -1 242 719 2
-Refer: 122 44 N -1 0 0 -1 410 719 2
+Refer: 122 44 N -1 0 0 -1 420 719 2
 EndChar
 
 StartChar: quotedblright
 Encoding: 8221 8221 127
-Width: 408
-Flags: HW
+Width: 418
+Flags: MW
 LayerCount: 2
 Fore
-Refer: 122 44 S 1 0 0 1 168 766 2
-Refer: 122 44 S 1 0 0 1 0 766 2
+Refer: 122 44 N 1 0 0 1 178 766 2
+Refer: 122 44 N 1 0 0 1 0 766 2
 EndChar
 EndChars
 EndSplineFont

@@ -48,10 +48,14 @@
     <string>bracketright.glif</string>
     <key>brokenbar</key>
     <string>brokenbar.glif</string>
+    <key>bullet</key>
+    <string>bullet.glif</string>
     <key>church</key>
     <string>church.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
+    <key>comma</key>
+    <string>comma.glif</string>
     <key>dagger</key>
     <string>dagger.glif</string>
     <key>daggerdbl</key>
@@ -62,6 +66,8 @@
     <string>deed_ado_roar.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
+    <key>divide</key>
+    <string>divide.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>eat</key>
@@ -72,6 +78,8 @@
     <string>ed_roar.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>ellipsis</key>
+    <string>ellipsis.glif</string>
     <key>emdash</key>
     <string>emdash.glif</string>
     <key>endash</key>
@@ -164,6 +172,8 @@
     <string>percent.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>periodcentered</key>
+    <string>periodcentered.glif</string>
     <key>pipe</key>
     <string>pipe.glif</string>
     <key>plus</key>
@@ -176,12 +186,26 @@
     <string>qsbracketright.glif</string>
     <key>question</key>
     <string>question.glif</string>
+    <key>quotedbl</key>
+    <string>quotedbl.glif</string>
+    <key>quotedblleft</key>
+    <string>quotedblleft.glif</string>
+    <key>quotedblright</key>
+    <string>quotedblright.glif</string>
+    <key>quoteleft</key>
+    <string>quoteleft.glif</string>
+    <key>quoteright</key>
+    <string>quoteright.glif</string>
+    <key>quotesingle</key>
+    <string>quotesingle.glif</string>
     <key>roar</key>
     <string>roar.glif</string>
     <key>second</key>
     <string>second.glif</string>
     <key>section</key>
     <string>section.glif</string>
+    <key>semicolon</key>
+    <string>semicolon.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
     <key>shush</key>

@@ -7,14 +7,17 @@
       <string>.notdef</string>
       <string>space</string>
       <string>exclam</string>
+      <string>quotedbl</string>
       <string>numbersign</string>
       <string>dollar</string>
       <string>percent</string>
       <string>ampersand</string>
+      <string>quotesingle</string>
       <string>parenleft</string>
       <string>parenright</string>
       <string>asterisk</string>
       <string>plus</string>
+      <string>comma</string>
       <string>hyphen</string>
       <string>period</string>
       <string>slash</string>
@@ -29,6 +32,7 @@
       <string>eight</string>
       <string>nine</string>
       <string>colon</string>
+      <string>semicolon</string>
       <string>less</string>
       <string>equal</string>
       <string>greater</string>
@@ -52,14 +56,22 @@
       <string>uni00AD</string>
       <string>degree</string>
       <string>plusminus</string>
+      <string>periodcentered</string>
       <string>multiply</string>
+      <string>divide</string>
       <string>uni2010</string>
       <string>uni2011</string>
       <string>figuredash</string>
       <string>endash</string>
       <string>emdash</string>
+      <string>quoteleft</string>
+      <string>quoteright</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
       <string>dagger</string>
       <string>daggerdbl</string>
+      <string>bullet</string>
+      <string>ellipsis</string>
       <string>minute</string>
       <string>second</string>
       <string>Euro</string>
@@ -167,9 +179,13 @@
       <string>base</string>
       <key>brokenbar</key>
       <string>base</string>
+      <key>bullet</key>
+      <string>base</string>
       <key>church</key>
       <string>base</string>
       <key>colon</key>
+      <string>base</string>
+      <key>comma</key>
       <string>base</string>
       <key>dagger</key>
       <string>base</string>
@@ -181,6 +197,8 @@
       <string>base</string>
       <key>degree</key>
       <string>base</string>
+      <key>divide</key>
+      <string>base</string>
       <key>dollar</key>
       <string>base</string>
       <key>eat</key>
@@ -190,6 +208,8 @@
       <key>ed_roar</key>
       <string>base</string>
       <key>eight</key>
+      <string>base</string>
+      <key>ellipsis</key>
       <string>base</string>
       <key>emdash</key>
       <string>base</string>
@@ -283,6 +303,8 @@
       <string>base</string>
       <key>period</key>
       <string>base</string>
+      <key>periodcentered</key>
+      <string>base</string>
       <key>pipe</key>
       <string>base</string>
       <key>plus</key>
@@ -295,11 +317,25 @@
       <string>base</string>
       <key>question</key>
       <string>base</string>
+      <key>quotedbl</key>
+      <string>base</string>
+      <key>quotedblleft</key>
+      <string>base</string>
+      <key>quotedblright</key>
+      <string>base</string>
+      <key>quoteleft</key>
+      <string>base</string>
+      <key>quoteright</key>
+      <string>base</string>
+      <key>quotesingle</key>
+      <string>base</string>
       <key>roar</key>
       <string>base</string>
       <key>second</key>
       <string>base</string>
       <key>section</key>
+      <string>base</string>
+      <key>semicolon</key>
       <string>base</string>
       <key>seven</key>
       <string>base</string>
