@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1699871205
+ModificationTime: 1699875797
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -54,10 +54,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 13
+WinInfo: 8192 16 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114123 122
+BeginChars: 1114123 128
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -3011,7 +3011,7 @@ Width: 240
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 113 46 N 1 0 0 1 0 404 2
+Refer: 113 46 S 1 0 0 1 0 404 2
 Refer: 113 46 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3070,7 +3070,7 @@ EndChar
 StartChar: periodcentered
 Encoding: 183 183 119
 Width: 240
-Flags: MWO
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 113 46 N 1 0 0 1 0 265 3
@@ -3101,6 +3101,74 @@ LayerCount: 2
 Fore
 Refer: 120 39 S 1 0 0 1 170 0 2
 Refer: 120 39 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: comma
+Encoding: 44 44 122
+Width: 240
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+61 48 m 0
+ 61 81 88 108 121 108 c 0
+ 142 108 165 90 173 72 c 0
+ 181 54 183 35 183 10 c 0
+ 183 -27 176 -89 122 -144 c 0
+ 115 -151 106 -155 96 -155 c 0
+ 76 -155 59 -138 59 -118 c 0
+ 59 -108 62 -99 69 -92 c 0
+ 99 -61 106 -35 108 -10 c 1
+ 81 -4 61 22 61 48 c 0
+EndSplineSet
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 123
+Width: 240
+Flags: W
+LayerCount: 2
+Fore
+Refer: 113 46 N 1 0 0 1 0 404 2
+Refer: 122 44 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: quoteright
+Encoding: 8217 8217 124
+Width: 240
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 122 44 N 1 0 0 1 0 766 3
+EndChar
+
+StartChar: quoteleft
+Encoding: 8216 8216 125
+Width: 240
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 122 44 N -1 0 0 -1 242 719 3
+EndChar
+
+StartChar: quotedblleft
+Encoding: 8220 8220 126
+Width: 408
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 122 44 N -1 0 0 -1 242 719 2
+Refer: 122 44 N -1 0 0 -1 410 719 2
+EndChar
+
+StartChar: quotedblright
+Encoding: 8221 8221 127
+Width: 408
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 122 44 S 1 0 0 1 168 766 2
+Refer: 122 44 S 1 0 0 1 0 766 2
 EndChar
 EndChars
 EndSplineFont
