@@ -8,7 +8,7 @@ These fonts are distributed in two formats: TTF for installation on computers; a
 
 * * *
 
-This font is intended to embody the quintessence of the Quikscript alphabet. The Quikscript letters are based on the writing samples found in the Quikscript Manual; I have taken no liberties with their design. The numerals and most other symbols follow the forms used in my own handwriting. All glyphs are monolinear with rounded endings, in order to get as close as possible to their unadorned skeletons.
+This font is intended to embody the quintessence of the Quikscript alphabet. The Quikscript letters are based on the writing samples found in the Quikscript Manual; I have taken no liberties with their design. Most of the numerals and other symbols follow the forms used in my own handwriting. All glyphs are monolinear with rounded endings, in order to get as close as possible to their unadorned skeletons.
 
 Although I gave my best attempt at creating an even “texture” or overall appearance of text on the page, Paul Tremblay's Thoth [3] may still be better in that regard. I am pleased, however, with the smooth shapes that look good even at large sizes, and the way the letters flow into one another as in real handwriting.
 
