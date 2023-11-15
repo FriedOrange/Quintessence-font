@@ -8,9 +8,11 @@ These fonts are distributed in two formats: TTF for installation on computers; a
 
 * * *
 
-This font is intended to embody the quintessence of the Quikscript alphabet. The Quikscript letters are based on the writing samples found in the Quikscript Manual; I have taken no liberties with their design. The numerals and most other symbols follow the forms used in my own handwriting.
+This font is intended to embody the quintessence of the Quikscript alphabet. The Quikscript letters are based on the writing samples found in the Quikscript Manual; I have taken no liberties with their design. The numerals and most other symbols follow the forms used in my own handwriting. All glyphs are monolinear with rounded endings, in order to get as close as possible to their unadorned skeletons.
 
 Although I gave my best attempt at creating an even “texture” or overall appearance of text on the page, Paul Tremblay's Thoth [3] may still be better in that regard. I am pleased, however, with the smooth shapes that look good even at large sizes, and the way the letters flow into one another as in real handwriting.
+
+While FontForge is my font editor of choice, it lacks good facilities for designing stroked glyphs. Instead, all glyphs were drawn in Inkscape. I used a batch script to automatically convert the stroke information to outlines suitable for importation to FontForge; a Python script automated that importation. All of this made it much easier to iterate designs, and make something as well-polished as I reasonably could.
 
 Quintessence replaces my earlier fonts, all unfinished and unreleased until now: QS Manual (2020; previously used for the alphabet chart and other Quikscript text on my website), Gateway Hand (2018) and Gateway Rounded (2017) [4].
 
