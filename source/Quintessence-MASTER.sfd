@@ -54,7 +54,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 13
+WinInfo: 58912 16 13
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114123 128
@@ -1265,23 +1265,23 @@ EndChar
 
 StartChar: qsbracketleft
 Encoding: 58990 58990 38
-Width: 479
+Width: 379
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-422 874 m 0
- 444 874 459 856 459 837 c 0
- 459 833 458 829 457 826 c 2
- 107 -300 l 1
- 422 -300 l 2
- 442 -300 459 -317 459 -337 c 0
- 459 -357 442 -374 422 -374 c 2
+322 874 m 0
+ 344 874 359 857 359 837 c 0
+ 359 834 359 832 358 829 c 2
+ 103 -300 l 1
+ 322 -300 l 2
+ 342 -300 359 -317 359 -337 c 0
+ 359 -357 342 -374 322 -374 c 2
  57 -374 l 2
  37 -374 20 -357 20 -337 c 0
- 20 -333 20 -329 21 -326 c 2
- 387 848 l 2
- 392 863 405 874 422 874 c 0
+ 20 -334 20 -332 21 -329 c 2
+ 286 845 l 2
+ 290 861 303 874 322 874 c 0
 EndSplineSet
 EndChar
 
@@ -1874,11 +1874,11 @@ EndChar
 
 StartChar: qsbracketright
 Encoding: 58991 58991 61
-Width: 479
+Width: 379
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 38 58990 N -1 0 0 -1 489 500 2
+Refer: 38 58990 N -1 0 0 -1 379 500 3
 EndChar
 
 StartChar: ash
