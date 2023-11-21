@@ -2,7 +2,7 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 
 feature tnum {
-	pos one <169 0 60 0>;
+	pos one <60 0 169 0>;
 } tnum;
 
 feature liga {
