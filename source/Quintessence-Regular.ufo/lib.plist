@@ -122,16 +122,10 @@
       <string>oak</string>
       <string>wool</string>
       <string>ooze</string>
-      <string>age_roar</string>
-      <string>ah_roar</string>
       <string>deed_ado_roar</string>
-      <string>ed_roar</string>
-      <string>if_ado</string>
-      <string>if_ado_roar</string>
       <string>mime_roar</string>
       <string>mime_zoos</string>
       <string>nun_nun_nun</string>
-      <string>yoyo_ooze</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -141,11 +135,7 @@
       <string>base</string>
       <key>age</key>
       <string>base</string>
-      <key>age_roar</key>
-      <string>base</string>
       <key>ah</key>
-      <string>base</string>
-      <key>ah_roar</key>
       <string>base</string>
       <key>ampersand</key>
       <string>base</string>
@@ -205,8 +195,6 @@
       <string>base</string>
       <key>ed</key>
       <string>base</string>
-      <key>ed_roar</key>
-      <string>base</string>
       <key>eight</key>
       <string>base</string>
       <key>ellipsis</key>
@@ -242,10 +230,6 @@
       <key>ice</key>
       <string>base</string>
       <key>if</key>
-      <string>base</string>
-      <key>if_ado</key>
-      <string>base</string>
-      <key>if_ado_roar</key>
       <string>base</string>
       <key>inkling</key>
       <string>base</string>
@@ -380,8 +364,6 @@
       <key>wool</key>
       <string>base</string>
       <key>yoyo</key>
-      <string>base</string>
-      <key>yoyo_ooze</key>
       <string>base</string>
       <key>zero</key>
       <string>base</string>

@@ -10,12 +10,8 @@
     <string>ado.glif</string>
     <key>age</key>
     <string>age.glif</string>
-    <key>age_roar</key>
-    <string>age_roar.glif</string>
     <key>ah</key>
     <string>ah.glif</string>
-    <key>ah_roar</key>
-    <string>ah_roar.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
     <key>asciicircum</key>
@@ -74,8 +70,6 @@
     <string>eat.glif</string>
     <key>ed</key>
     <string>ed.glif</string>
-    <key>ed_roar</key>
-    <string>ed_roar.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
     <key>ellipsis</key>
@@ -112,10 +106,6 @@
     <string>ice.glif</string>
     <key>if</key>
     <string>if.glif</string>
-    <key>if_ado</key>
-    <string>if_ado.glif</string>
-    <key>if_ado_roar</key>
-    <string>if_ado_roar.glif</string>
     <key>inkling</key>
     <string>inkling.glif</string>
     <key>judge</key>
@@ -250,8 +240,6 @@
     <string>wool.glif</string>
     <key>yoyo</key>
     <string>yoyo.glif</string>
-    <key>yoyo_ooze</key>
-    <string>yoyo_ooze.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
     <key>zhivago</key>
