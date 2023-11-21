@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1700559890
+ModificationTime: 1700564263
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ FitToEm: 1
 WinInfo: 0 16 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114123 122
+BeginChars: 1114123 121
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2734,17 +2734,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00AD
-Encoding: 173 173 104
-Width: 410
-Flags: MW
-LayerCount: 2
-Fore
-Refer: 103 45 S 1 0 0 1 0 0 3
-EndChar
-
 StartChar: uni2011
-Encoding: 8209 8209 105
+Encoding: 8209 8209 104
 Width: 410
 Flags: MW
 LayerCount: 2
@@ -2753,7 +2744,7 @@ Refer: 103 45 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni2010
-Encoding: 8208 8208 106
+Encoding: 8208 8208 105
 Width: 410
 Flags: MW
 LayerCount: 2
@@ -2762,7 +2753,7 @@ Refer: 103 45 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: period
-Encoding: 46 46 107
+Encoding: 46 46 106
 Width: 240
 Flags: HMW
 LayerCount: 2
@@ -2777,7 +2768,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 108
+Encoding: 33 33 107
 Width: 240
 Flags: HMW
 LayerCount: 2
@@ -2799,28 +2790,28 @@ EndSplineSet
 EndChar
 
 StartChar: colon
-Encoding: 58 58 109
+Encoding: 58 58 108
 Width: 240
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 107 46 S 1 0 0 1 0 404 2
-Refer: 107 46 N 1 0 0 1 0 0 3
+Refer: 106 46 S 1 0 0 1 0 404 2
+Refer: 106 46 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: divide
-Encoding: 247 247 110
+Encoding: 247 247 109
 Width: 640
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 107 46 N 1 0 0 1 200 568 2
-Refer: 107 46 N 1 0 0 1 200 201 2
+Refer: 106 46 N 1 0 0 1 200 568 2
+Refer: 106 46 N 1 0 0 1 200 201 2
 Refer: 80 8722 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: bullet
-Encoding: 8226 8226 111
+Encoding: 8226 8226 110
 Width: 416
 Flags: MW
 LayerCount: 2
@@ -2850,27 +2841,27 @@ EndSplineSet
 EndChar
 
 StartChar: ellipsis
-Encoding: 8230 8230 112
+Encoding: 8230 8230 111
 Width: 1000
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 107 46 N 1 0 0 1 713 0 2
-Refer: 107 46 N 1 0 0 1 380 0 2
-Refer: 107 46 N 1 0 0 1 47.0003 0 2
+Refer: 106 46 N 1 0 0 1 713 0 2
+Refer: 106 46 N 1 0 0 1 380 0 2
+Refer: 106 46 N 1 0 0 1 47.0003 0 2
 EndChar
 
 StartChar: periodcentered
-Encoding: 183 183 113
+Encoding: 183 183 112
 Width: 240
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 107 46 N 1 0 0 1 0 265 3
+Refer: 106 46 N 1 0 0 1 0 265 3
 EndChar
 
 StartChar: quotesingle
-Encoding: 39 39 114
+Encoding: 39 39 113
 Width: 240
 Flags: HMW
 LayerCount: 2
@@ -2887,17 +2878,17 @@ EndSplineSet
 EndChar
 
 StartChar: quotedbl
-Encoding: 34 34 115
+Encoding: 34 34 114
 Width: 400
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 114 39 S 1 0 0 1 170 0 2
-Refer: 114 39 N 1 0 0 1 0 0 2
+Refer: 113 39 S 1 0 0 1 170 0 2
+Refer: 113 39 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: comma
-Encoding: 44 44 116
+Encoding: 44 44 115
 Width: 240
 Flags: HMW
 LayerCount: 2
@@ -2917,51 +2908,51 @@ EndSplineSet
 EndChar
 
 StartChar: semicolon
-Encoding: 59 59 117
+Encoding: 59 59 116
 Width: 240
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 107 46 N 1 0 0 1 0 404 2
-Refer: 116 44 N 1 0 0 1 0 0 3
+Refer: 106 46 N 1 0 0 1 0 404 2
+Refer: 115 44 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 118
+Encoding: 8217 8217 117
 Width: 240
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 116 44 N 1 0 0 1 0 766 3
+Refer: 115 44 N 1 0 0 1 0 766 3
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 119
+Encoding: 8216 8216 118
 Width: 240
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 116 44 N -1 0 0 -1 242 719 3
+Refer: 115 44 N -1 0 0 -1 242 719 3
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 120
+Encoding: 8220 8220 119
 Width: 418
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 116 44 N -1 0 0 -1 242 719 2
-Refer: 116 44 N -1 0 0 -1 420 719 2
+Refer: 115 44 N -1 0 0 -1 242 719 2
+Refer: 115 44 N -1 0 0 -1 420 719 2
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 121
+Encoding: 8221 8221 120
 Width: 418
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 116 44 N 1 0 0 1 178 766 2
-Refer: 116 44 N 1 0 0 1 0 766 2
+Refer: 115 44 N 1 0 0 1 178 766 2
+Refer: 115 44 N 1 0 0 1 0 766 2
 EndChar
 EndChars
 EndSplineFont
