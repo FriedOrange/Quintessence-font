@@ -1,5 +1,6 @@
 @rem generate intermediate UFO sources
 sfd2ufo source\Quintessence-MASTER.sfd source\Quintessence-Regular.ufo
+copy source\features.fea source\Quintessence-Regular.ufo\features.fea
 
 @rem build OpenType fonts
 @cd source
