@@ -53,7 +53,6 @@
       <string>brokenbar</string>
       <string>section</string>
       <string>logicalnot</string>
-      <string>uni00AD</string>
       <string>degree</string>
       <string>plusminus</string>
       <string>periodcentered</string>
@@ -348,8 +347,6 @@
       <key>underscore</key>
       <string>base</string>
       <key>uni00A0</key>
-      <string>base</string>
-      <key>uni00AD</key>
       <string>base</string>
       <key>uni2010</key>
       <string>base</string>

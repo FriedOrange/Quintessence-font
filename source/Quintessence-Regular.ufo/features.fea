@@ -11,3 +11,9 @@ feature liga {
 	sub periodcentered deed' ado' roar' by deed_ado_roar;
 	sub nun nun nun by nun_nun_nun;
 } liga;
+
+@GDEF_base = [Euro ado age ah ampersand asciicircum asciitilde ash asterisk at awl axe backslash bar bob braceleft braceright bracketleft bracketright brokenbar bullet church colon comma dagger daggerdbl deed deed_ado_roar degree divide dollar eat ed eight ellipsis emdash endash equal exam exclam fife figuredash five four gig grave greater haha hyphen ice if inkling judge kick less llan loch logicalnot loll mime mime_roar mime_zoos minus minute multiply nine numbersign nun nun_nun_nun oak oil on one ooze out parenleft parenright percent period periodcentered pipe plus plusminus qsbracketleft qsbracketright question quotedbl quotedblleft quotedblright quoteleft quoteright quotesingle roar second section semicolon seven shush sis six slash space sterling thither thoth three tut two underscore uni00A0 uni2010 uni2011 valve whitewheat winwin wool yoyo zero zhivago zoos];
+
+table GDEF {
+GlyphClassDef @GDEF_base,,,;
+} GDEF;
