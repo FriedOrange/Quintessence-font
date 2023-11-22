@@ -46,8 +46,8 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:zoom="0.65186406"
-     inkscape:cx="299.90916"
-     inkscape:cy="428.00335"
+     inkscape:cx="243.14886"
+     inkscape:cy="492.43396"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -87,6 +87,12 @@
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
   </sodipodi:namedview>
+  <path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:73.8461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 696.10378,769.55576 c -16.75827,1.98874 -40.60447,5.38374 -67.2662,5.44432 -89.13782,0.20252 -204.50783,-29.29689 -204.50783,-266.2126 0,-141.376 69.317,-315.18311 260.34403,-546.09428 C 580.71563,83.063397 477.34297,271.05823 284.64075,325.00049"
+     id="path4732-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csscc" />
   <g
      id="g4720"
      transform="matrix(1.0663,0,0,-1.0663,68.335679,1499.6841)"
@@ -101,10 +107,4 @@
   <g
      transform="matrix(1,0,0,-1,68.659561,1522.5133)"
      id="g4-5" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:73.8461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 678.10378,775.00011 c -71.09803,8.43734 -251.77403,42.18668 -251.77403,-260.76828 0,-136.77381 75.317,-320.62746 266.34403,-551.53863 C 514.18875,170.15655 423.11275,291.8163 284.64075,325.00053"
-     id="path4732-7"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cscc" />
 </svg>

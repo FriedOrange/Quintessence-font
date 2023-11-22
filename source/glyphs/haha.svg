@@ -26,7 +26,15 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs10">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -46,8 +54,8 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:zoom="0.65186406"
-     inkscape:cx="298.37509"
-     inkscape:cy="427.23632"
+     inkscape:cx="128.09419"
+     inkscape:cy="589.07988"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -103,8 +111,8 @@
      id="g4-5" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:73.8461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 394.34699,775.00008 V 266.35099 c 0,-222.054187 146.56173,-303.65779 265.14954,-303.65779"
-     id="path4732"
+     d="M 441.68354,775.00008 V 266.35099 c 0,-186.54898 36.04154,-303.65779 184.8329,-303.65779 17.78523,0 27.83665,1.392754 42.31664,4"
+     id="path10583"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
+     sodipodi:nodetypes="ccsc" />
 </svg>

@@ -121,9 +121,9 @@
       <string>oak</string>
       <string>wool</string>
       <string>ooze</string>
+      <string>mime_zoos</string>
       <string>deed_ado_roar</string>
       <string>mime_roar</string>
-      <string>mime_zoos</string>
       <string>nun_nun_nun</string>
     </array>
     <key>public.openTypeCategories</key>
