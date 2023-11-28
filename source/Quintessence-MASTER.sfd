@@ -7,8 +7,8 @@ Copyright: Copyright 2023 Brad Neil
 UComments: "2023-2-8: Created with FontForge (http://fontforge.org)"
 Version: 0.1000
 ItalicAngle: 0
-UnderlinePosition: -130
-UnderlineWidth: 82
+UnderlinePosition: -125
+UnderlineWidth: 74
 Ascent: 800
 Descent: 200
 InvalidEm: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1701171990
+ModificationTime: 1701172452
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -47,16 +47,17 @@ OS2FamilyClass: 2568
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "Brad Neil" "" "" "http://friedorange.xyz/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Brad Neil" "" "" "http://friedorange.xyz/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 58912 16 13
+WinInfo: 16 16 13
 BeginPrivate: 0
 EndPrivate
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 1114117 121
 
 StartChar: .notdef
@@ -487,33 +488,33 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-67 105 m 4
- 67 125 83 142 104 142 c 4
- 115 142 125 137 132 129 c 4
- 165 90 205 62 295 62 c 4
- 358 62 410 79 446 113 c 4
- 482 147 505 197 505 273 c 4
- 505 350 484 400 451 432 c 4
- 418 464 371 481 312 481 c 4
- 216 481 194 469 138 437 c 4
- 133 434 126 432 119 432 c 4
- 99 432 82 449 82 469 c 4
- 82 471 83 472 83 473 c 6
- 125 830 l 6
- 127 848 143 863 162 863 c 6
- 508 863 l 6
- 528 863 545 846 545 826 c 4
- 545 806 528 789 508 789 c 6
- 195 789 l 5
- 164 532 l 5
- 202 547 246 555 312 555 c 4
- 386 555 454 532 503 484 c 4
- 552 436 579 364 579 273 c 4
- 579 181 548 108 496 59 c 4
- 444 10 372 -12 295 -12 c 4
- 225 -12 174 4 139 25 c 4
- 104 46 83 71 75 81 c 4
- 70 87 67 96 67 105 c 4
+67 105 m 0
+ 67 125 83 142 104 142 c 0
+ 115 142 125 137 132 129 c 0
+ 165 90 205 62 295 62 c 0
+ 358 62 410 79 446 113 c 0
+ 482 147 505 197 505 273 c 0
+ 505 350 484 400 451 432 c 0
+ 418 464 371 481 312 481 c 0
+ 216 481 194 469 138 437 c 0
+ 133 434 126 432 119 432 c 0
+ 99 432 82 449 82 469 c 0
+ 82 471 83 472 83 473 c 2
+ 125 830 l 2
+ 127 848 143 863 162 863 c 2
+ 508 863 l 2
+ 528 863 545 846 545 826 c 0
+ 545 806 528 789 508 789 c 2
+ 195 789 l 1
+ 164 532 l 1
+ 202 547 246 555 312 555 c 0
+ 386 555 454 532 503 484 c 0
+ 552 436 579 364 579 273 c 0
+ 579 181 548 108 496 59 c 0
+ 444 10 372 -12 295 -12 c 0
+ 225 -12 174 4 139 25 c 0
+ 104 46 83 71 75 81 c 0
+ 70 87 67 96 67 105 c 0
 EndSplineSet
 EndChar
 
