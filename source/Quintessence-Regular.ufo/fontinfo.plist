@@ -31,7 +31,7 @@
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
-    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+    <string>https://scripts.sil.org/OFL</string>
     <key>openTypeOS2FamilyClass</key>
     <array>
       <integer>10</integer>
@@ -68,9 +68,9 @@
     <key>postscriptSlantAngle</key>
     <real>0.0</real>
     <key>postscriptUnderlinePosition</key>
-    <real>-89.0</real>
+    <real>-88.0</real>
     <key>postscriptUnderlineThickness</key>
-    <real>82.0</real>
+    <real>74.0</real>
     <key>postscriptWeightName</key>
     <string>Regular</string>
     <key>styleName</key>
