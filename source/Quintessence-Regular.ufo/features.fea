@@ -1,6 +1,25 @@
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 
+# right side kerning classes
+@short = [nun roar if ed age awl oak wool llan];
+@curve_top_left = [loll eat ash ice ah ado out ooze];
+@clear_bottom_left = [on oil];
+
+feature kern {
+	pos deed pipe -104;
+	pos deed church -104;
+	pos deed ed -52;
+	pos deed age -104;
+	pos deed awl -104;
+	pos yoyo oak -98;
+	pos deed @clear_bottom_left -155;
+	pos yoyo @curve_top_left -147;
+	pos haha @short -147;
+	pos haha @curve_top_left -147;
+	pos haha @clear_bottom_left -147;
+} kern;
+
 feature tnum {
 	pos one <60 0 169 0>;
 } tnum;
