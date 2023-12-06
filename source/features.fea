@@ -12,11 +12,12 @@ languagesystem latn dflt;
 
 # right side kerning classes
 @short = [nun roar if ed age awl oak wool llan];
-@curve_top_left = [loll eat ash ice ah ooze];
+@curve_top_left = [loll eat ash ice ah];
 @curve_top_left2 = [ado out];
 @clear_bottom_left = [on oil];
 
 feature kern {
+
 	pos deed pipe -104;
 	pos deed church -104;
 	pos deed winwin -60;
@@ -25,14 +26,25 @@ feature kern {
 	pos deed awl -104;
 	pos kick winwin -70;
 	pos yoyo oak -98;
-	pos winwin eat -40;
-	pos whitewheat eat -40;
+	pos yoyo ooze -147;
+	pos winwin eat -60;
+	pos whitewheat eat -60;
 	pos winwin ash -80;
 	pos whitewheat ash -80;
+	pos winwin ice -40;
+	pos whitewheat ice -40;
 	pos winwin ah -80;
 	pos haha winwin -237;
+	pos haha ooze -147;
 	pos whitewheat ah -80;
+	pos loll ado -40;
+	pos loll out -40;
+	pos loll ooze -35;
+	pos ah loll -110;
+	pos ado loll -150;
+	pos out loll -60;
 	pos ooze winwin -80;
+
 	pos deed @clear_bottom_left -155;
 	pos yoyo @curve_top_left -147;
 	pos yoyo @curve_top_left2 -147;
@@ -51,7 +63,13 @@ feature kern {
 	pos @curve_bottom_right2 winwin -150;
 	pos @curve_bottom_right3 winwin -180;
 	pos @clear_bottom_right winwin -220;
-	pos @w @curve_top_left2 -40;
+	pos @clear_bottom_right whitewheat -200;
+	pos @curve_bottom_right3 whitewheat -135;
+	pos @w @curve_top_left2 -30;
+	pos @w ooze -30;
+	pos @curve_bottom_right2 @curve_top_left -60;
+	pos @curve_bottom_right3 @curve_top_left -80;
+
 } kern;
 
 feature tnum {
