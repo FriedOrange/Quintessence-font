@@ -46,8 +46,8 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:zoom="0.92187499"
-     inkscape:cx="532.0678"
-     inkscape:cy="765.83051"
+     inkscape:cx="380.20339"
+     inkscape:cy="633.49153"
      inkscape:window-x="369"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -86,6 +86,11 @@
        inkscape:label="Ascender Line"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="560.76592,224.99992"
+       orientation="1,0"
+       id="guide524"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      id="g4720"
@@ -103,7 +108,7 @@
      id="g4-5" />
   <path
      style="fill:none;stroke:#000000;stroke-width:74;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-     d="m 526.14281,774.84102 c -14.37064,0 -23.0525,-11.42724 -23.0525,-22.91591 0,-11.48867 7.77008,-22.91591 23.0525,-22.91591 15.28242,0 24.62311,16.81522 24.62311,60.91591 0,34.03519 -3.64595,80.91997 -50.11272,127.95314"
+     d="m 550.76592,735.00008 c 0,58.36961 -10.32127,127.545 -68.11272,182.87817"
      id="path1076"
-     sodipodi:nodetypes="czzsc" />
+     sodipodi:nodetypes="cc" />
 </svg>
