@@ -12,8 +12,8 @@ languagesystem latn dflt;
 
 # right side kerning classes
 @short = [nun roar if ed age awl oak wool llan];
-@curve_top_left = [loll eat ash ice ah];
-@curve_top_left2 = [ado out];
+@curve_top_left = [loll eat ash ah];
+@curve_top_left2 = [ice ado out];
 @clear_bottom_left = [on oil];
 
 feature kern {
@@ -37,9 +37,11 @@ feature kern {
 	pos haha winwin -237;
 	pos haha ooze -147;
 	pos whitewheat ah -80;
+	pos mime bob 40;
 	pos loll ado -40;
 	pos loll out -40;
 	pos loll ooze -35;
+	pos ice thoth -100;
 	pos ah loll -110;
 	pos ado loll -150;
 	pos out loll -60;
@@ -59,9 +61,9 @@ feature kern {
 	pos @curve_bottom_right3 bob -140;
 	pos @clear_bottom_right bob -162;
 	pos @vertical_bottom_right winwin -90;
-	pos @curve_bottom_right winwin -120;
+	pos @curve_bottom_right winwin -130;
 	pos @curve_bottom_right2 winwin -150;
-	pos @curve_bottom_right3 winwin -180;
+	pos @curve_bottom_right3 winwin -200;
 	pos @clear_bottom_right winwin -220;
 	pos @clear_bottom_right whitewheat -200;
 	pos @curve_bottom_right3 whitewheat -135;
@@ -69,6 +71,14 @@ feature kern {
 	pos @w ooze -30;
 	pos @curve_bottom_right2 @curve_top_left -60;
 	pos @curve_bottom_right3 @curve_top_left -80;
+	pos @curve_bottom_right2 thoth -70;
+	pos @clear_bottom_right thoth -110;
+	pos @curve_bottom_right3 ooze -40;
+	pos @curve_bottom_right3 thither -70;
+	pos @curve_bottom_right2 thither -50;
+	pos @clear_bottom_right thither -90;
+	pos thither @curve_top_left -100;
+	pos thither @curve_top_left2 -40;
 
 } kern;
 
