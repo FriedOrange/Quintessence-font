@@ -4,17 +4,21 @@ languagesystem latn dflt;
 # left side kerning classes
 @vertical_bottom_right = [pipe tut if eat];
 @clear_top_right = [ed awl];
+@open_right = [shush church];
 @curve_bottom_right = [fife sis nun roar oak wool];
 @curve_bottom_right2 = [loll ash];
 @curve_bottom_right3 = [thoth ice];
 @clear_bottom_right = [ah ado out];
 @w = [winwin whitewheat];
+@curve_top_right = [on oil];
+@curve_top_right2 = [oak ooze];
 
 # right side kerning classes
-@short = [nun roar if ed age awl oak wool llan];
+@short = [nun roar if oak wool llan];
 @curve_top_left = [loll eat ash ah];
-@curve_top_left2 = [ice ado out];
-@clear_bottom_left = [on oil];
+@curve_top_left2 = [mime ice ado out];
+@clear_bottom_left = [awl on oil];
+@curve_bottom_left = [ed age];
 
 feature kern {
 
@@ -25,6 +29,8 @@ feature kern {
 	pos deed age -104;
 	pos deed awl -104;
 	pos kick winwin -70;
+	pos valve zoos 40;
+	pos judge pipe -100;
 	pos yoyo oak -98;
 	pos yoyo ooze -147;
 	pos winwin eat -60;
@@ -35,16 +41,23 @@ feature kern {
 	pos whitewheat ice -40;
 	pos winwin ah -80;
 	pos haha winwin -237;
+	pos haha yoyo -30;
 	pos haha ooze -147;
 	pos whitewheat ah -80;
-	pos mime bob 40;
-	pos loll ado -40;
-	pos loll out -40;
-	pos loll ooze -35;
+	pos mime bob 50;
+	pos mime deed 30;
+	pos mime valve 40;
+	pos loll ado -30;
+	pos loll out -30;
+	pos loll ooze -25;
+	pos age judge -30;
 	pos ice thoth -100;
 	pos ah loll -110;
+	pos on pipe -60;
+	pos ado mime -80;
 	pos ado loll -150;
 	pos out loll -60;
+	pos wool loll -30;
 	pos ooze winwin -80;
 
 	pos deed @clear_bottom_left -155;
@@ -54,6 +67,7 @@ feature kern {
 	pos haha @curve_top_left -147;
 	pos haha @curve_top_left2 -147;
 	pos haha @clear_bottom_left -147;
+	pos haha @curve_bottom_left -147;
 	pos @clear_top_right pipe -155;
 	pos @vertical_bottom_right bob -50;
 	pos @curve_bottom_right bob -80;
@@ -70,7 +84,8 @@ feature kern {
 	pos @w @curve_top_left2 -30;
 	pos @w ooze -30;
 	pos @curve_bottom_right2 @curve_top_left -60;
-	pos @curve_bottom_right3 @curve_top_left -80;
+	pos @curve_bottom_right3 @curve_top_left -90;
+	pos @curve_bottom_right3 @curve_top_left2 -30;
 	pos @curve_bottom_right2 thoth -70;
 	pos @clear_bottom_right thoth -110;
 	pos @curve_bottom_right3 ooze -40;
@@ -79,6 +94,16 @@ feature kern {
 	pos @clear_bottom_right thither -90;
 	pos thither @curve_top_left -100;
 	pos thither @curve_top_left2 -40;
+	pos @open_right @clear_bottom_left -80;
+	pos @open_right @curve_bottom_left -50;
+	pos @clear_top_right church -100;
+	pos @curve_top_right church -60;
+	pos @curve_top_right2 church -30;
+	pos @clear_top_right judge -80;
+	pos @curve_top_right judge -50;
+	pos @curve_top_right2 judge -30;
+	pos judge @clear_bottom_left -100;
+	pos judge @curve_bottom_left -60;
 
 } kern;
 
