@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblright" format="2">
-  <advance width="421"/>
+  <advance width="461"/>
   <outline>
     <component base="comma" xOffset="1.13687e-13" yOffset="772.0"/>
     <component base="comma" xOffset="181.0" yOffset="772.0"/>
