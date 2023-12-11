@@ -30,6 +30,7 @@ feature kern {
 	pos deed awl -104;
 	pos kick winwin -70;
 	pos valve zoos 40;
+	pos zoos zoos 30;
 	pos judge pipe -100;
 	pos yoyo oak -98;
 	pos yoyo ooze -147;
@@ -50,15 +51,30 @@ feature kern {
 	pos loll ado -30;
 	pos loll out -30;
 	pos loll ooze -25;
+	pos roar thoth -40;
 	pos age judge -30;
 	pos ice thoth -100;
 	pos ah loll -110;
-	pos on pipe -60;
 	pos ado mime -80;
 	pos ado loll -150;
 	pos out loll -60;
 	pos wool loll -30;
 	pos ooze winwin -80;
+	pos deed hyphen -115;
+	pos awl hyphen -40;
+	pos ado hyphen -30;
+	pos hyphen pipe -120;
+	pos hyphen bob -120;
+	pos hyphen sis -60;
+	pos hyphen zoos -30;
+	pos hyphen zhivago -30;
+	pos hyphen judge -30;
+	pos hyphen winwin -140;
+	pos hyphen whitewheat -40;
+	pos hyphen roar -30;
+	pos hyphen eat -30;
+	pos hyphen awl -40;
+	pos hyphen on -40;
 
 	pos deed @clear_bottom_left -155;
 	pos yoyo @curve_top_left -147;
@@ -69,6 +85,8 @@ feature kern {
 	pos haha @clear_bottom_left -147;
 	pos haha @curve_bottom_left -147;
 	pos @clear_top_right pipe -155;
+	pos @curve_top_right pipe -60;
+	pos @curve_top_right2 pipe -30;
 	pos @vertical_bottom_right bob -50;
 	pos @curve_bottom_right bob -80;
 	pos @curve_bottom_right2 bob -110;
@@ -104,6 +122,11 @@ feature kern {
 	pos @curve_top_right2 judge -30;
 	pos judge @clear_bottom_left -100;
 	pos judge @curve_bottom_left -60;
+	pos @open_right hyphen -60;
+	pos yoyo hyphen -90;
+	pos haha hyphen -110;
+	pos hyphen @curve_bottom_right3 -60;
+	pos hyphen @curve_top_left -30;
 
 } kern;
 
