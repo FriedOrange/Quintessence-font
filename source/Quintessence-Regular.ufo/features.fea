@@ -61,6 +61,7 @@ feature kern {
 	pos wool loll -30;
 	pos ooze winwin -80;
 	pos deed hyphen -115;
+	pos gig hyphen -50;
 	pos awl hyphen -40;
 	pos ado hyphen -30;
 	pos hyphen pipe -120;
