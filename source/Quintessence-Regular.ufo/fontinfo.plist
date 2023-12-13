@@ -24,6 +24,8 @@
     <integer>-500</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>A font for the Quikscript alphabet, in the style of idealised handwriting. The Quikscript letters are based on the writing samples found in the Quikscript Manual; no liberties were taken with their design. All glyphs are monolinear with rounded endings, in order to get as close as possible to their unadorned skeletons.</string>
     <key>openTypeNameDesigner</key>
     <string>Brad Neil</string>
     <key>openTypeNameDesignerURL</key>
@@ -111,9 +113,9 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>versionMinor</key>
-    <integer>1000</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>500</integer>
   </dict>

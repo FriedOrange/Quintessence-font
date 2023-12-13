@@ -5,7 +5,7 @@ FamilyName: Quintessence
 Weight: Regular
 Copyright: Copyright 2023 Brad Neil
 UComments: "2023-2-8: Created with FontForge (http://fontforge.org)"
-Version: 0.1000
+Version: 1.000
 ItalicAngle: 0
 UnderlinePosition: -125
 UnderlineWidth: 74
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1702448012
+ModificationTime: 1702449451
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -58,7 +58,7 @@ OS2FamilyClass: 2568
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "Brad Neil" "" "" "http://friedorange.xyz/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Brad Neil" "A font for the Quikscript alphabet, in the style of idealised handwriting. The Quikscript letters are based on the writing samples found in the Quikscript Manual; no liberties were taken with their design. All glyphs are monolinear with rounded endings, in order to get as close as possible to their unadorned skeletons." "" "http://friedorange.xyz/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -2596,7 +2596,7 @@ EndChar
 StartChar: hyphen
 Encoding: 45 45 100
 Width: 390
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
