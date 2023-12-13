@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1702381588
+ModificationTime: 1702434015
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -2789,7 +2789,7 @@ Width: 280
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 103 46 N 1 0 0 1 26 404 2
+Refer: 103 46 N 1 0 0 1 33 404 2
 Refer: 112 44 N 1 0 0 1 0 0 3
 EndChar
 
