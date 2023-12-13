@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1702434217
+ModificationTime: 1702448012
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -2595,24 +2595,24 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 100
-Width: 370
-Flags: HMW
+Width: 390
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
-67 306 m 2
- 303 306 l 2
- 323 306 340 289 340 269 c 0
- 340 249 323 232 303 232 c 2
- 67 232 l 2
- 47 232 30 249 30 269 c 0
- 30 289 47 306 67 306 c 2
+77 306 m 2
+ 313 306 l 2
+ 333 306 350 289 350 269 c 0
+ 350 249 333 232 313 232 c 2
+ 77 232 l 2
+ 57 232 40 249 40 269 c 0
+ 40 289 57 306 77 306 c 2
 EndSplineSet
 EndChar
 
 StartChar: uni2011
 Encoding: 8209 8209 101
-Width: 370
+Width: 390
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2621,7 +2621,7 @@ EndChar
 
 StartChar: uni2010
 Encoding: 8208 8208 102
-Width: 370
+Width: 390
 Flags: HMW
 LayerCount: 2
 Fore
