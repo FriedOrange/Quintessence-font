@@ -100,8 +100,9 @@ feature kern {
 	pos @clear_bottom_right winwin -220;
 	pos @clear_bottom_right whitewheat -200;
 	pos @curve_bottom_right3 whitewheat -135;
-	pos @w @curve_top_left2 -30;
+	pos @w @curve_top_left2 -25;
 	pos @w ooze -30;
+	pos @curve_bottom_right @curve_top_left -20;
 	pos @curve_bottom_right2 @curve_top_left -60;
 	pos @curve_bottom_right3 @curve_top_left -90;
 	pos @curve_bottom_right3 @curve_top_left2 -30;
