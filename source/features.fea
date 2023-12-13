@@ -5,7 +5,7 @@ languagesystem latn dflt;
 @vertical_bottom_right = [pipe tut if eat];
 @clear_top_right = [ed awl];
 @open_right = [shush church];
-@curve_bottom_right = [fife sis nun roar oak wool];
+@curve_bottom_right = [sis nun roar oak wool];
 @curve_bottom_right2 = [loll ash];
 @curve_bottom_right3 = [thoth ice];
 @clear_bottom_right = [ah ado out];
@@ -29,6 +29,8 @@ feature kern {
 	pos deed age -104;
 	pos deed awl -104;
 	pos kick winwin -70;
+	pos fife bob -80;
+	pos fife winwin -130;
 	pos valve zoos 40;
 	pos zoos zoos 30;
 	pos judge pipe -100;
@@ -113,7 +115,7 @@ feature kern {
 	pos @curve_bottom_right3 whitewheat -135;
 	pos @w @curve_top_left2 -25;
 	pos @w ooze -30;
-	pos @curve_bottom_right @curve_top_left -20;
+	pos fife @curve_top_left -20;
 	pos @curve_bottom_right2 @curve_top_left -60;
 	pos @curve_bottom_right3 @curve_top_left -90;
 	pos @curve_bottom_right3 @curve_top_left2 -30;
