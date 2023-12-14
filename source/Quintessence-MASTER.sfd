@@ -5,7 +5,7 @@ FamilyName: Quintessence
 Weight: Regular
 Copyright: Copyright 2023 Brad Neil
 UComments: "2023-2-8: Created with FontForge (http://fontforge.org)"
-Version: 1.001
+Version: 1.002
 ItalicAngle: 0
 UnderlinePosition: -125
 UnderlineWidth: 74
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1675857821
-ModificationTime: 1702514938
+ModificationTime: 1702537952
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -2789,7 +2789,7 @@ Width: 280
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 103 46 N 1 0 0 1 33 404 2
+Refer: 103 46 N 1 0 0 1 26 404 2
 Refer: 112 44 N 1 0 0 1 0 0 3
 EndChar
 
