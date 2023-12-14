@@ -89,6 +89,7 @@ feature kern {
 	pos exam ah -94;
 	pos exam ado -94;
 	pos exam ooze -94;
+	pos emdash emdash -80;
 
 	pos deed @clear_bottom_left -155;
 	pos yoyo @curve_top_left -147;
